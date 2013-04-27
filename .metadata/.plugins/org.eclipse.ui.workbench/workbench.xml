@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="40" version="2.0">
+<workbench progressCount="24" version="2.0">
 <workbenchAdvisor/>
-<window height="768" maximized="true" minimized="true" width="1024" x="90" y="84">
+<window height="768" maximized="true" width="1024" x="90" y="84">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
 </perspectiveBar>
 <coolbarLayout>
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="265" y="22"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="211" y="22"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="adt.actionSet.avdManager" itemType="typeToolBarContribution" x="61" y="22"/>
 <coolItem id="adt.actionSet.lint" itemType="typeToolBarContribution" x="63" y="22"/>
@@ -22,8 +22,8 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="230" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.jdt.ui.PropertiesFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.PropertiesFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="com.android.ide.eclipse.editors.CommonXmlEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
@@ -43,92 +43,38 @@
 <part id="5"/>
 <part id="6"/>
 <part id="7"/>
-<part id="8"/>
-<part id="9"/>
-<part id="10"/>
-<part id="11"/>
-<part id="12"/>
-<part id="13"/>
-<part id="14"/>
-<part id="15"/>
-<part id="16"/>
-<part id="17"/>
-<part id="18"/>
-<part id="19"/>
-<part id="20"/>
-<part id="21"/>
-<part id="22"/>
-<part id="23"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="SlipButton Manifest" path="Z:/work/code/android/AndroidProjects/SlipButton/AndroidManifest.xml" title="SlipButton Manifest" tooltip="SlipButton/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SlipButton/AndroidManifest.xml"/>
+<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="GameEngine Manifest" path="Z:/work/code/android/AndroidProjects/GameEngine/AndroidManifest.xml" title="GameEngine Manifest" tooltip="GameEngine/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GameEngine/AndroidManifest.xml"/>
 </editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" partName="main.xml" path="Z:/work/code/android/AndroidProjects/ToggleButtonDemo/res/layout/main.xml" title="main.xml" tooltip="ToggleButtonDemo/res/layout/main.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ToggleButtonDemo/res/layout/main.xml"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GameActivity.java" partName="GameActivity.java" path="Z:/work/code/android/AndroidProjects/GameEngine/src/com/longluo/GameEngine/GameActivity.java" title="GameActivity.java" tooltip="GameEngine/src/com/longluo/GameEngine/GameActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GameEngine/src/com/longluo/GameEngine/GameActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="33" selectionTopPixel="1320"/>
 </editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="IOSVolumeDemo Manifest" path="Z:/work/code/android/AndroidProjects/IOSVolumeDemo/AndroidManifest.xml" title="IOSVolumeDemo Manifest" tooltip="IOSVolumeDemo/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOSVolumeDemo/AndroidManifest.xml"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlScriptParser.java" partName="XmlScriptParser.java" path="Z:/work/code/android/AndroidProjects/GameEngine/src/com/longluo/GameEngine/Script/XmlScriptParser.java" title="XmlScriptParser.java" tooltip="GameEngine/src/com/longluo/GameEngine/Script/XmlScriptParser.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GameEngine/src/com/longluo/GameEngine/Script/XmlScriptParser.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="13905" selectionTopPixel="9380"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MainActivity.java" partName="MainActivity.java" path="Z:/work/code/android/AndroidProjects/IOSVolumeDemo/src/com/longluo/volume/MainActivity.java" title="MainActivity.java" tooltip="IOSVolumeDemo/src/com/longluo/volume/MainActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOSVolumeDemo/src/com/longluo/volume/MainActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="754" selectionTopPixel="218"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleLayer.java" partName="SimpleLayer.java" path="Z:/work/code/android/AndroidProjects/GameEngine/src/com/longluo/GameEngine/Screen/SimpleLayer.java" title="SimpleLayer.java" tooltip="GameEngine/src/com/longluo/GameEngine/Screen/SimpleLayer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GameEngine/src/com/longluo/GameEngine/Screen/SimpleLayer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="803" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WmtRatingBar.java" partName="WmtRatingBar.java" path="Z:/work/code/android/AndroidProjects/IOSVolumeDemo/src/com/longluo/volume/WmtRatingBar.java" title="WmtRatingBar.java" tooltip="IOSVolumeDemo/src/com/longluo/volume/WmtRatingBar.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOSVolumeDemo/src/com/longluo/volume/WmtRatingBar.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="429" selectionTopPixel="120"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConstData.java" partName="ConstData.java" path="Z:/work/code/android/AndroidProjects/Weather/src/com/longluo/weather/ConstData.java" title="ConstData.java" tooltip="Weather/src/com/longluo/weather/ConstData.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Weather/src/com/longluo/weather/ConstData.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="573" selectionTopPixel="0"/>
 </editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" partName="main.xml" path="Z:/work/code/android/AndroidProjects/IOSVolumeDemo/res/layout/main.xml" title="main.xml" tooltip="IOSVolumeDemo/res/layout/main.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOSVolumeDemo/res/layout/main.xml"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Weather.java" partName="Weather.java" path="Z:/work/code/android/AndroidProjects/Weather/src/com/longluo/weather/Weather.java" title="Weather.java" tooltip="Weather/src/com/longluo/weather/Weather.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Weather/src/com/longluo/weather/Weather.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="783" selectionTopPixel="834"/>
 </editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="styles.xml" partName="styles.xml" path="Z:/work/code/android/AndroidProjects/IOSVolumeDemo/res/values/styles.xml" title="styles.xml" tooltip="IOSVolumeDemo/res/values/styles.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOSVolumeDemo/res/values/styles.xml"/>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" partName="strings.xml" path="Z:/work/code/android/AndroidProjects/Weather/res/values/strings.xml" title="strings.xml" tooltip="Weather/res/values/strings.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Weather/res/values/strings.xml"/>
 </editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" partName="strings.xml" path="Z:/work/code/android/AndroidProjects/IOSVolumeDemo/res/values/strings.xml" title="strings.xml" tooltip="IOSVolumeDemo/res/values/strings.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOSVolumeDemo/res/values/strings.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="colors.xml" partName="colors.xml" path="Z:/work/code/android/AndroidProjects/IOSVolumeDemo/res/values/colors.xml" title="colors.xml" tooltip="IOSVolumeDemo/res/values/colors.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IOSVolumeDemo/res/values/colors.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GoogleMapActivity.java" partName="GoogleMapActivity.java" path="Z:/work/code/android/AndroidProjects/AnDevCon/src/com/mokriya/andevcon/GoogleMapActivity.java" title="GoogleMapActivity.java" tooltip="AnDevCon/src/com/mokriya/andevcon/GoogleMapActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AnDevCon/src/com/mokriya/andevcon/GoogleMapActivity.java"/>
-<editorState selectionHorizontalPixel="66" selectionLength="62" selectionOffset="1141" selectionTopPixel="231"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="AnDevCon Manifest" path="Z:/work/code/android/AndroidProjects/AnDevCon/AndroidManifest.xml" title="AnDevCon Manifest" tooltip="AnDevCon/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AnDevCon/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="README" partName="README" path="Z:/work/code/android/AndroidProjects/AnDevCon/README" title="README" tooltip="AnDevCon/README" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AnDevCon/README"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="480" selectionTopPixel="0"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="gd_action_bar_item_loader.xml" partName="gd_action_bar_item_loader.xml" path="Z:/work/code/android/AndroidProjects/GreenDroid/res/layout/gd_action_bar_item_loader.xml" title="gd_action_bar_item_loader.xml" tooltip="GreenDroid/res/layout/gd_action_bar_item_loader.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GreenDroid/res/layout/gd_action_bar_item_loader.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="GreenDroid Manifest" path="Z:/work/code/android/AndroidProjects/GreenDroid/AndroidManifest.xml" title="GreenDroid Manifest" tooltip="GreenDroid/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GreenDroid/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.PropertiesFileEditor" name="project.properties" partName="project.properties" path="Z:/work/code/android/AndroidProjects/GreenDroid/project.properties" title="project.properties" tooltip="GreenDroid/project.properties" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GreenDroid/project.properties"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="668" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MapPinMapActivity.java" partName="MapPinMapActivity.java" path="Z:/work/code/android/AndroidProjects/GDCatalog/src/com/cyrilmottier/android/gdcatalog/MapPinMapActivity.java" title="MapPinMapActivity.java" tooltip="GDCatalog/src/com/cyrilmottier/android/gdcatalog/MapPinMapActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GDCatalog/src/com/cyrilmottier/android/gdcatalog/MapPinMapActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2338" selectionTopPixel="3081"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="GDCatalog Manifest" path="Z:/work/code/android/AndroidProjects/GDCatalog/AndroidManifest.xml" title="GDCatalog Manifest" tooltip="GDCatalog/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GDCatalog/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TweakedItemViewActivity.java" partName="TweakedItemViewActivity.java" path="Z:/work/code/android/AndroidProjects/GDCatalog/src/com/cyrilmottier/android/gdcatalog/TweakedItemViewActivity.java" title="TweakedItemViewActivity.java" tooltip="GDCatalog/src/com/cyrilmottier/android/gdcatalog/TweakedItemViewActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GDCatalog/src/com/cyrilmottier/android/gdcatalog/TweakedItemViewActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="28321" selectionTopPixel="13200"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="library Manifest" path="C:/Users/Administrator/Downloads/Android-ViewPagerIndicator-master/library/AndroidManifest.xml" title="library Manifest" tooltip="library/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/library/AndroidManifest.xml"/>
-</editor>
-<editor activePart="true" focus="true" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="sample Manifest" path="C:/Users/Administrator/Downloads/Android-ViewPagerIndicator-master/sample/AndroidManifest.xml" title="sample Manifest" tooltip="sample/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/sample/AndroidManifest.xml"/>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" partName="main.xml" path="Z:/work/code/android/AndroidProjects/Weather/res/layout/main.xml" title="main.xml" tooltip="Weather/res/layout/main.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Weather/res/layout/main.xml"/>
 </editor>
 </editors>
 <views>
@@ -136,20 +82,19 @@
 <viewState/>
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
-<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.resourceField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
+<category IMemento.internal.id="Warnings"/>
 <category IMemento.internal.id="Errors"/>
 </expanded>
-<columnWidths org.eclipse.ui.ide.locationField="135" org.eclipse.ui.ide.markerType="135" org.eclipse.ui.ide.pathField="180" org.eclipse.ui.ide.resourceField="135" org.eclipse.ui.ide.severityAndDescriptionField="580"/>
+<columnWidths org.eclipse.ui.ide.locationField="135" org.eclipse.ui.ide.markerType="415" org.eclipse.ui.ide.pathField="180" org.eclipse.ui.ide.resourceField="332" org.eclipse.ui.ide.severityAndDescriptionField="879"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+<DESCENDING_FIELDS IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 </viewState>
-</view>
-<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
-<viewState/>
 </view>
 <view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
 <viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
@@ -180,15 +125,20 @@
 </customFilters>
 </viewState>
 </view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
 <view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
 <viewState/>
 </view>
 <view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
 <viewState/>
 </view>
-<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc">
+<viewState/>
+</view>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
 <alwaysOnActionSet id="org.eclipse.egit.ui.navigation"/>
@@ -256,13 +206,13 @@
 <perspective_action id="com.android.ide.eclipse.hierarchyviewer.TreeViewPerspective"/>
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
-<view id="org.eclipse.jdt.ui.PackageExplorer"/>
 <view id="org.eclipse.ui.views.ProblemView"/>
 <view id="org.eclipse.jdt.ui.JavadocView"/>
 <view id="org.eclipse.jdt.ui.SourceView"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="com.android.ide.eclipse.ddms.views.LogCatView"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
 <fastViewBars/>
 <layout>
 <mainWindow>
@@ -288,9 +238,9 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.20223933" ratioLeft="289" ratioRight="1140" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.6393211" ratioLeft="452" ratioRight="255" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<info part="org.eclipse.ui.editorss" ratio="0.1896431" ratioLeft="271" ratioRight="1158" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.6166902" ratioLeft="436" ratioRight="271" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="com.android.ide.eclipse.ddms.views.LogCatView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
 <page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
@@ -331,130 +281,39 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/IOSVolumeDemo/AndroidManifest.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IOSVolumeDemo/src/com/longluo/volume/WmtRatingBar.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GreenDroid-GoogleAPIs/src/greendroid/graphics/drawable/MapPinDrawable.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/GDCatalog/res/values/styles.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/android-actionbar-library/src/com/markupartist/android/widget/ActionBar.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/android-actionbar-library/gen/com/markupartist/android/widget/actionbar/R.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/android-actionbar-example/res/layout/main.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/android-actionbar-example/res/layout/other.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/android-actionbar-example/src/com/markupartist/android/actionbar/example/HomeActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/android-actionbar-example/src/com/markupartist/android/actionbar/example/OtherActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/AnDevCon/src/com/mokriya/andevcon/GoogleMapActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/AnDevCon/AndroidManifest.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/AnDevCon/README"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/GreenDroid/res/layout/gd_action_bar_item_loader.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/GreenDroid/AndroidManifest.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" path="/GreenDroid/project.properties"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GDCatalog/src/com/cyrilmottier/android/gdcatalog/MapPinMapActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/GDCatalog/AndroidManifest.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GDCatalog/src/com/cyrilmottier/android/gdcatalog/TweakedItemViewActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/library/AndroidManifest.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/sample/AndroidManifest.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/GameEngine/AndroidManifest.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GameEngine/src/com/longluo/GameEngine/GameActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GameEngine/src/com/longluo/GameEngine/Script/XmlScriptParser.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GameEngine/src/com/longluo/GameEngine/Screen/SimpleLayer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Weather/src/com/longluo/weather/ConstData.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Weather/src/com/longluo/weather/Weather.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/Weather/res/values/strings.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/Weather/res/layout/main.xml"/>
 </editors>
-<item historyLabel="styles.xml" index="3"/>
-<item historyLabel="MapPinDrawable.java" index="2">
-<position info="not_deleted" x="483" y="0"/>
+<item historyLabel="GameEngine Manifest" index="0"/>
+<item historyLabel="GameActivity.java" index="1">
+<position info="not_deleted" x="33" y="0"/>
 </item>
-<item historyLabel="WmtRatingBar.java" index="1">
-<position info="not_deleted" x="429" y="0"/>
+<item historyLabel="XmlScriptParser.java" index="2">
+<position info="not_deleted" x="14248" y="0"/>
 </item>
-<item historyLabel="ActionBar.java" index="4">
-<position info="not_deleted" x="746" y="0"/>
+<item historyLabel="SimpleLayer.java" index="3">
+<position info="not_deleted" x="803" y="0"/>
 </item>
-<item historyLabel="R.java" index="5">
-<position info="not_deleted" x="675" y="0"/>
+<item historyLabel="XmlScriptParser.java" index="2">
+<position info="not_deleted" x="13905" y="0"/>
 </item>
-<item historyLabel="ActionBar.java" index="4">
-<position info="not_deleted" x="939" y="0"/>
+<item historyLabel="ConstData.java" index="4">
+<position info="not_deleted" x="573" y="0"/>
 </item>
-<item historyLabel="main.xml" index="6"/>
-<item historyLabel="other.xml" index="7">
+<item historyLabel="Weather.java" index="5">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="main.xml" index="6">
+<item historyLabel="strings.xml" index="6"/>
+<item historyLabel="main.xml" index="7"/>
+<item active="true" historyLabel="Weather.java" index="5">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="HomeActivity.java" index="8">
-<position info="not_deleted" x="469" y="0"/>
-</item>
-<item historyLabel="OtherActivity.java" index="9">
-<position info="not_deleted" x="260" y="0"/>
-</item>
-<item historyLabel="HomeActivity.java" index="8">
-<position info="not_deleted" x="439" y="0"/>
-</item>
-<item historyLabel="GoogleMapActivity.java" index="10">
-<position info="not_deleted" x="0" y="4567"/>
-</item>
-<item historyLabel="AnDevCon Manifest" index="11"/>
-<item historyLabel="README" index="12">
-<position info="not_deleted" x="480" y="0"/>
-</item>
-<item historyLabel="GoogleMapActivity.java" index="10">
-<position info="not_deleted" x="1141" y="62"/>
-</item>
-<item historyLabel="gd_action_bar_item_loader.xml" index="13">
-<position info="not_deleted" x="0" y="677"/>
-</item>
-<item historyLabel="GreenDroid Manifest" index="14"/>
-<item historyLabel="project.properties" index="15">
-<position info="not_deleted" x="668" y="0"/>
-</item>
-<item historyLabel="gd_action_bar_item_loader.xml" index="13"/>
-<item historyLabel="GreenDroid Manifest" index="14"/>
-<item historyLabel="MapPinMapActivity.java" index="16">
-<position info="not_deleted" x="4604" y="0"/>
-</item>
-<item historyLabel="gd_action_bar_item_loader.xml" index="13"/>
-<item historyLabel="project.properties" index="15">
-<position info="not_deleted" x="668" y="0"/>
-</item>
-<item historyLabel="gd_action_bar_item_loader.xml" index="13"/>
-<item historyLabel="GreenDroid Manifest" index="14"/>
-<item historyLabel="MapPinMapActivity.java" index="16">
-<position info="not_deleted" x="4604" y="0"/>
-</item>
-<item historyLabel="GreenDroid Manifest" index="14"/>
-<item historyLabel="gd_action_bar_item_loader.xml" index="13"/>
-<item historyLabel="GreenDroid Manifest" index="14"/>
-<item historyLabel="IOSVolumeDemo Manifest" index="0"/>
-<item historyLabel="GreenDroid Manifest" index="14"/>
-<item historyLabel="IOSVolumeDemo Manifest" index="0"/>
-<item historyLabel="GreenDroid Manifest" index="14"/>
-<item historyLabel="MapPinMapActivity.java" index="16">
-<position info="not_deleted" x="4604" y="0"/>
-</item>
-<item historyLabel="GreenDroid Manifest" index="14"/>
-<item historyLabel="IOSVolumeDemo Manifest" index="0"/>
-<item historyLabel="GreenDroid Manifest" index="14"/>
-<item historyLabel="IOSVolumeDemo Manifest" index="0"/>
-<item historyLabel="GreenDroid Manifest" index="14"/>
-<item historyLabel="MapPinMapActivity.java" index="16">
-<position info="not_deleted" x="0" y="7005"/>
-</item>
-<item historyLabel="GDCatalog Manifest" index="17"/>
-<item historyLabel="MapPinMapActivity.java" index="16">
-<position info="not_deleted" x="1270" y="13"/>
-</item>
-<item historyLabel="MapPinMapActivity.java" index="16">
-<position info="not_deleted" x="1754" y="0"/>
-</item>
-<item historyLabel="MapPinMapActivity.java" index="16">
-<position info="not_deleted" x="2338" y="0"/>
-</item>
-<item historyLabel="TweakedItemViewActivity.java" index="18">
-<position info="not_deleted" x="28189" y="10"/>
-</item>
-<item historyLabel="TweakedItemViewActivity.java" index="18">
-<position info="not_deleted" x="28277" y="0"/>
-</item>
-<item historyLabel="TweakedItemViewActivity.java" index="18">
-<position info="not_deleted" x="28321" y="0"/>
-</item>
-<item historyLabel="library Manifest" index="19"/>
-<item active="true" historyLabel="sample Manifest" index="20"/>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
@@ -473,50 +332,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="sample/AndroidManifest.xml">
-<persistable path="/sample/AndroidManifest.xml"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" tooltip="Weather/res/layout/main.xml">
+<persistable path="/Weather/res/layout/main.xml"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="library/AndroidManifest.xml">
-<persistable path="/library/AndroidManifest.xml"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" tooltip="Weather/res/values/strings.xml">
+<persistable path="/Weather/res/values/strings.xml"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TweakedItemViewActivity.java" tooltip="GDCatalog/src/com/cyrilmottier/android/gdcatalog/TweakedItemViewActivity.java">
-<persistable path="/GDCatalog/src/com/cyrilmottier/android/gdcatalog/TweakedItemViewActivity.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Weather.java" tooltip="Weather/src/com/longluo/weather/Weather.java">
+<persistable path="/Weather/src/com/longluo/weather/Weather.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="GDCatalog/AndroidManifest.xml">
-<persistable path="/GDCatalog/AndroidManifest.xml"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConstData.java" tooltip="Weather/src/com/longluo/weather/ConstData.java">
+<persistable path="/Weather/src/com/longluo/weather/ConstData.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MapPinMapActivity.java" tooltip="GDCatalog/src/com/cyrilmottier/android/gdcatalog/MapPinMapActivity.java">
-<persistable path="/GDCatalog/src/com/cyrilmottier/android/gdcatalog/MapPinMapActivity.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleLayer.java" tooltip="GameEngine/src/com/longluo/GameEngine/Screen/SimpleLayer.java">
+<persistable path="/GameEngine/src/com/longluo/GameEngine/Screen/SimpleLayer.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" name="project.properties" tooltip="GreenDroid/project.properties">
-<persistable path="/GreenDroid/project.properties"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlScriptParser.java" tooltip="GameEngine/src/com/longluo/GameEngine/Script/XmlScriptParser.java">
+<persistable path="/GameEngine/src/com/longluo/GameEngine/Script/XmlScriptParser.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="GreenDroid/AndroidManifest.xml">
-<persistable path="/GreenDroid/AndroidManifest.xml"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GameActivity.java" tooltip="GameEngine/src/com/longluo/GameEngine/GameActivity.java">
+<persistable path="/GameEngine/src/com/longluo/GameEngine/GameActivity.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="gd_action_bar_item_loader.xml" tooltip="GreenDroid/res/layout/gd_action_bar_item_loader.xml">
-<persistable path="/GreenDroid/res/layout/gd_action_bar_item_loader.xml"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="GameEngine/AndroidManifest.xml">
+<persistable path="/GameEngine/AndroidManifest.xml"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="README" tooltip="AnDevCon/README">
-<persistable path="/AnDevCon/README"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Layer.java" tooltip="GameEngine/src/javax/microedition/lcdui/game/Layer.java">
+<persistable path="/GameEngine/src/javax/microedition/lcdui/game/Layer.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="AnDevCon/AndroidManifest.xml">
-<persistable path="/AnDevCon/AndroidManifest.xml"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringExtension.java" tooltip="GameEngine/src/com/longluo/GameEngine/Util/StringExtension.java">
+<persistable path="/GameEngine/src/com/longluo/GameEngine/Util/StringExtension.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GoogleMapActivity.java" tooltip="AnDevCon/src/com/mokriya/andevcon/GoogleMapActivity.java">
-<persistable path="/AnDevCon/src/com/mokriya/andevcon/GoogleMapActivity.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomNumber.java" tooltip="GameEngine/src/com/longluo/GameEngine/Util/RandomNumber.java">
+<persistable path="/GameEngine/src/com/longluo/GameEngine/Util/RandomNumber.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="colors.xml" tooltip="IOSVolumeDemo/res/values/colors.xml">
-<persistable path="/IOSVolumeDemo/res/values/colors.xml"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileIO.java" tooltip="GameEngine/src/com/longluo/GameEngine/Util/FileIO.java">
+<persistable path="/GameEngine/src/com/longluo/GameEngine/Util/FileIO.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" tooltip="IOSVolumeDemo/res/values/strings.xml">
-<persistable path="/IOSVolumeDemo/res/values/strings.xml"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Coordinates.java" tooltip="GameEngine/src/com/longluo/GameEngine/Util/Coordinates.java">
+<persistable path="/GameEngine/src/com/longluo/GameEngine/Util/Coordinates.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="styles.xml" tooltip="IOSVolumeDemo/res/values/styles.xml">
-<persistable path="/IOSVolumeDemo/res/values/styles.xml"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Calculagraph.java" tooltip="GameEngine/src/com/longluo/GameEngine/Util/Calculagraph.java">
+<persistable path="/GameEngine/src/com/longluo/GameEngine/Util/Calculagraph.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" tooltip="IOSVolumeDemo/res/layout/main.xml">
-<persistable path="/IOSVolumeDemo/res/layout/main.xml"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PakUtil.java" tooltip="GameEngine/src/com/longluo/GameEngine/Script/pak/PakUtil.java">
+<persistable path="/GameEngine/src/com/longluo/GameEngine/Script/pak/PakUtil.java"/>
 </file>
 </mruList>
 </workbench>

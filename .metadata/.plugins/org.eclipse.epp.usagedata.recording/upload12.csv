@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527331
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527340
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527352
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527365
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527374
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527382
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527389
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527397
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527404
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527411
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527417
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527426
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527432
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527438
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527444
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527449
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527459
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527467
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527474
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527479
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527485
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961527491
+closed,editor,com.android.ide.eclipse.adt,21.1.0.v201302060044-569685,"com.android.ide.eclipse.editors.CommonXmlEditor",1366961527500
+closed,editor,com.android.ide.eclipse.adt,21.1.0.v201302060044-569685,"com.android.ide.eclipse.editors.CommonXmlEditor",1366961527510
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961529624
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961529661
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.selectAll",1366961531850
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961532387
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961533227
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961534003
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961539783
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961540335
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961542749
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961542931
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961542968
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961545055
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961545257
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961547540
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961547629
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961547661
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961553811
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961554782
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961554823
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961559777
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961560306
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.selectAll",1366961560570
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961561167
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961561868
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961562401
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961566588
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961566713
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961568541
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961569057
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961570612
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961570849
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961570888
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961573899
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961574010
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1366961576041
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961581784
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961582380
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961587043
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961587137
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961588000
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961588844
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.selectAll",1366961590983
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961591524
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961592187
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961592719
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961594714
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961594955
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961594988
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961602722
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.selectAll",1366961603819
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961606598
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961606702
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961607585
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961608616
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961608947
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961609354
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961609392
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961613083
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961613194
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961614392
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961614866
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961615805
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961616031
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961616069
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961619653
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961619876
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961621049
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961623221
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961623455
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961623497
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961627746
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961627746
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961627753
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961627759
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961627767
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961627773
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961627786
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961627792
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961627799
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961627804
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961627814
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961629285
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961629308
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961633836
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961633914
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961635912
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961636147
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961636185
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961639141
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961639243
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961640554
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961641290
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961642111
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961646189
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961646454
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961646491
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.selectAll",1366961653290
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961653889
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961654606
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961655142
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961657660
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961657750
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961660669
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961661211
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961664068
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961664183
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961671995
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961672091
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961678387
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961678944
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1366961693999
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961698775
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961699984
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961700032
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961702963
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961702989
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961707967
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961708063
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961711566
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961712451
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961714079
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961724573
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961724797
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961724836
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961727689
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961728476
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961729338
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961729643
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961729887
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961729923
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961731703
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961732457
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961734313
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961737481
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961738787
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961738823
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961743349
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961743608
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961743644
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961747119
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961747219
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961747686
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961756755
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961756892
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961761447
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961761548
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961764941
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961765045
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961771403
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961771506
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961774819
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961774913
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961777606
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961777720
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961785521
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961786078
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961786285
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961797946
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961804422
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961804642
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961804685
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961806891
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961811772
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961811891
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961813491
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961813992
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961819039
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961819068
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961825447
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961825685
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961825719
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961832259
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961832259
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961833745
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961834515
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961834637
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961834637
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961835107
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961836750
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961837998
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961838034
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961846151
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961847050
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961847561
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961849451
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961849533
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961851939
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961852476
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961858069
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961858149
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961863995
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961864117
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961871094
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961871599
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961873267
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961873500
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961873535
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961875331
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961876138
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961876930
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961883664
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961884210
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961885627
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961885709
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961887077
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961887601
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961890651
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961890755
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961893148
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961893246
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961895050
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961895153
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961897123
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961897223
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961901178
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961901253
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961907116
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961907191
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961907231
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.format",1366961909871
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1366961910727
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: GameEngine",1366961911401
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1366961912548
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961912790
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1366961912836
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1366961919411

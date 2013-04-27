@@ -2,4 +2,35 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="com.longluo.togglebtn.R"/>
 <fullyQualifiedTypeName name="com.longluo.volume.WmtRatingBar.OnRatingBarChanging"/>
+<fullyQualifiedTypeName name="com.longluo.cityweather.R"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Util.Calculagraph"/>
+<fullyQualifiedTypeName name="com.longluo.gameengine.R"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Script.XmlScriptParser"/>
+<fullyQualifiedTypeName name="android.graphics.Camera"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Screen.GameModel"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Screen.animation.Animator"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Util.Coordinates"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.GameActivity"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Material.Movement"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Util.StringExtension"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.GameObjectQueue"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.GameObject"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Events.Event"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Events.Message"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Screen.elements.Property.Property"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Screen.SimpleLayer"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Screen.MapTransformer"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Screen.Camera"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Music.Musician"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Music.Music"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Events.EventQueue"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Events.MessageQueue"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Screen.elements.Property.PropertyManager"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Screen.elements.biology.Actor"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Screen.SimpleMap"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Screen.SimpleLevel"/>
+<fullyQualifiedTypeName name="com.longluo.GameEngine.Screen.elements.biology.NPC"/>
 </qualifiedTypeNameHistroy>

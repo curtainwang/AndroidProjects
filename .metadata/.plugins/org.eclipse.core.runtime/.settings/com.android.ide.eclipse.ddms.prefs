@@ -1,4 +1,4 @@
-#Thu Apr 25 15:18:30 CST 2013
+#Fri Apr 26 15:53:58 CST 2013
 logcat.view.colsize.Text=949
 logcat.view.colsize.TID=82
 logcat.view.colsize.Level=38
@@ -9,3 +9,4 @@ logcat.view.colsize.Tag=179
 ddms.logcat.auotmonitor.level=error
 logcat.view.colsize.Time=227
 eclipse.preferences.version=1
+logcat.view.filters.list=name\: 'com.longluo.volume (Session Filter)', tag\: '', text\: '', pid\: '', app\: 'com.longluo.volume', level\: 'verbose', 
