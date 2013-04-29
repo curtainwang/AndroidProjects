@@ -1,6 +1,0 @@
-/** Automatically generated file. DO NOT MODIFY */
-package com.longluo.volume;
-
-public final class BuildConfig {
-    public final static boolean DEBUG = true;
-}
