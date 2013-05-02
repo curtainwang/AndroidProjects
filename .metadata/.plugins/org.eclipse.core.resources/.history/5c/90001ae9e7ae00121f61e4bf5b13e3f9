@@ -1,0 +1,5 @@
+package com.weather.locationservice;
+
+public class LocationGetter {
+
+}

@@ -1,0 +1,18 @@
+package com.longluo.whileloop;
+
+public class WhileLoop {
+
+	private static void main(String args[]) {
+		System.out.println("begin...");
+		
+		boolean bOn = 0 || 0;
+		
+		while (true) {
+			if (bOn) {
+				try {
+					
+				}
+			}
+		}
+	}
+}
