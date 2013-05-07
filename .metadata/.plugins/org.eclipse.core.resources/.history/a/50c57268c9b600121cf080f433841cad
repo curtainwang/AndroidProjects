@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">BinderClient</string>
+    <string name="hello">HelloWorld, BinderClientActivity</string>
+    <string name="getinfo">GetInfo</string>
+
+</resources>

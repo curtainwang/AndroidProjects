@@ -174,3 +174,21 @@ activated,editor,com.android.ide.eclipse.adt,21.1.0.v201302060044-569685,"com.an
 activated,editor,com.android.ide.eclipse.adt,21.1.0.v201302060044-569685,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1367893602092
 activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1367893611266
 opened,editor,com.android.ide.eclipse.adt,21.1.0.v201302060044-569685,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1367893613416
+activated,editor,com.android.ide.eclipse.adt,21.1.0.v201302060044-569685,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1367893613487
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.selectAll",1367893621067
+executed,command,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui.format.document",1367893621756
+no handler,command,org.eclipse.m2e.core.ui,,"org.eclipse.m2e.core.ui.command.addDependency",1367893621758
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1367893625162
+executed,command,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui.format.document",1367893627343
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1367893628518
+activated,editor,com.android.ide.eclipse.adt,21.1.0.v201302060044-569685,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1367893641360
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.selectAll",1367893644424
+executed,command,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui.format.document",1367893645066
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1367893645814
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1367893648622
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1367893649833
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1367893725402
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1367893725407
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1367894226776
+started,bundle,org.eclipse.epp.usagedata.ui,1.3.1.R201106061540,"org.eclipse.epp.usagedata.ui",1367894227406
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1367894228485

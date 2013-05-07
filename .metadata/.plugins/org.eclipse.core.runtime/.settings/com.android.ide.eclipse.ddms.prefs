@@ -1,17 +1,17 @@
-#Tue May 07 10:10:07 CST 2013
+#Tue May 07 16:19:53 CST 2013
 threadPanel.stack.col0=881
 ddms.logcat.automonitor.userprompt=true
 ddms.logcat.auotmonitor.level=error
 emulatorControl.waypoint.desc=176
 logcat.view.colsize.Time=44
-logcat.view.filters.list=name\: 'com.longluo.volume (Session Filter)', tag\: '', text\: '', pid\: '', app\: 'com.longluo.volume', level\: 'verbose', name\: 'com.android.viewdemo (Session Filter)', tag\: '', text\: '', pid\: '', app\: 'com.android.viewdemo', level\: 'verbose', 
+logcat.view.filters.list=name\: 'com.longluo.volume (Session Filter)', tag\: '', text\: '', pid\: '', app\: 'com.longluo.volume', level\: 'verbose', name\: 'com.android.viewdemo (Session Filter)', tag\: '', text\: '', pid\: '', app\: 'com.android.viewdemo', level\: 'verbose', name\: 'com.binderclient (Session Filter)', tag\: '', text\: '', pid\: '', app\: 'com.binderclient', level\: 'verbose', name\: 'Service', tag\: 'HelloService', text\: '', pid\: '', app\: '', level\: 'verbose', 
 emulatorControl.track.first=206
 logcat.view.colsize.PID=41
 emulatorControl.waypoint.elevation=85
-logcat.view.colsize.Tag=156
+logcat.view.colsize.Tag=179
 logcat.view.colsize.Level=38
 emulatorControl.waypoint.name=127
-logcat.view.colsize.Application=131
+logcat.view.colsize.Application=146
 emulatorControl.waypoint.latitude=126
 eclipse.preferences.version=1
 logcat.view.colsize.TID=45

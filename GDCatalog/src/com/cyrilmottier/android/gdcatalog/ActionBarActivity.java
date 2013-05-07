@@ -28,52 +28,49 @@ import android.widget.Toast;
 
 public class ActionBarActivity extends GDActivity {
 
-	private final Handler mHandler = new Handler();
+    private final Handler mHandler = new Handler();
 
-	@Override
-	protected void onCreate(Bundle savedInstanceState) {
-		super.onCreate(savedInstanceState);
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
 
-		setActionBarContentView(R.layout.text);
-		((TextView) findViewById(R.id.text)).setText(R.string.first_screen);
+        setActionBarContentView(R.layout.text);
+        ((TextView) findViewById(R.id.text)).setText(R.string.first_screen);
 
-		addActionBarItem(Type.Refresh, R.id.action_bar_refresh);
-		addActionBarItem(
-				getActionBar().newActionBarItem(NormalActionBarItem.class)
-						.setDrawable(R.drawable.ic_title_export)
-						.setContentDescription(R.string.gd_export),
-				R.id.action_bar_export);
-		addActionBarItem(Type.Locate, R.id.action_bar_locate);
-	}
+        addActionBarItem(Type.Refresh, R.id.action_bar_refresh);
+        addActionBarItem(getActionBar()
+                .newActionBarItem(NormalActionBarItem.class)
+                .setDrawable(R.drawable.ic_title_export)
+                .setContentDescription(R.string.gd_export), R.id.action_bar_export);
+        addActionBarItem(Type.Locate, R.id.action_bar_locate);
+    }
 
-	@Override
-	public boolean onHandleActionBarItemClick(ActionBarItem item, int position) {
+    @Override
+    public boolean onHandleActionBarItemClick(ActionBarItem item, int position) {
 
-		switch (item.getItemId()) {
-		case R.id.action_bar_locate:
-			startActivity(new Intent(this, TabbedActionBarActivity.class));
-			break;
+        switch (item.getItemId()) {
+            case R.id.action_bar_locate:
+                startActivity(new Intent(this, TabbedActionBarActivity.class));
+                break;
 
-		case R.id.action_bar_refresh:
-			final LoaderActionBarItem loaderItem = (LoaderActionBarItem) item;
-			mHandler.postDelayed(new Runnable() {
-				public void run() {
-					loaderItem.setLoading(false);
-				}
-			}, 2000);
-			Toast.makeText(this, R.string.refresh_pressed, Toast.LENGTH_SHORT)
-					.show();
-			break;
+            case R.id.action_bar_refresh:
+                final LoaderActionBarItem loaderItem = (LoaderActionBarItem) item;
+                mHandler.postDelayed(new Runnable() {
+                    public void run() {
+                        loaderItem.setLoading(false);
+                    }
+                }, 2000);
+                Toast.makeText(this, R.string.refresh_pressed, Toast.LENGTH_SHORT).show();
+                break;
 
-		case R.id.action_bar_export:
-			Toast.makeText(this, R.string.custom_drawable, Toast.LENGTH_SHORT)
-					.show();
-			break;
+            case R.id.action_bar_export:
+                Toast.makeText(this, R.string.custom_drawable, Toast.LENGTH_SHORT).show();
+                break;
 
-		default:
-			return super.onHandleActionBarItemClick(item, position);
-		}
+            default:
+                return super.onHandleActionBarItemClick(item, position);
+        }
 
-		return true;
-	}
+        return true;
+    }
 }

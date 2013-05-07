@@ -35,7 +35,7 @@ public class MyViewGroup extends LinearLayout {
 
 		Mylog("after measure wsize " + widhtSize + " wheight " + heightSize);
 
-		//setMeasuredDimension(120, 240);
+		// setMeasuredDimension(120, 240);
 	}
 
 }

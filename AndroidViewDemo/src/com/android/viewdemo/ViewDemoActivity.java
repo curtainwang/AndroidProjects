@@ -24,8 +24,8 @@ public class ViewDemoActivity extends Activity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.viewgroup);
-		// setContentView(R.layout.main);
+		//setContentView(R.layout.viewgroup);
+		setContentView(R.layout.main);
 
 		vTest = (Button) findViewById(R.id.test);
 		outTest = (Button) findViewById(R.id.outtext);
