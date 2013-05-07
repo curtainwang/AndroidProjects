@@ -1,20 +1,20 @@
-#Sun Apr 28 18:48:49 CST 2013
+#Tue May 07 10:10:07 CST 2013
 threadPanel.stack.col0=881
 ddms.logcat.automonitor.userprompt=true
 ddms.logcat.auotmonitor.level=error
 emulatorControl.waypoint.desc=176
-logcat.view.colsize.Time=227
-logcat.view.filters.list=name\: 'com.longluo.volume (Session Filter)', tag\: '', text\: '', pid\: '', app\: 'com.longluo.volume', level\: 'verbose', 
+logcat.view.colsize.Time=44
+logcat.view.filters.list=name\: 'com.longluo.volume (Session Filter)', tag\: '', text\: '', pid\: '', app\: 'com.longluo.volume', level\: 'verbose', name\: 'com.android.viewdemo (Session Filter)', tag\: '', text\: '', pid\: '', app\: 'com.android.viewdemo', level\: 'verbose', 
 emulatorControl.track.first=206
-logcat.view.colsize.PID=82
+logcat.view.colsize.PID=41
 emulatorControl.waypoint.elevation=85
-logcat.view.colsize.Tag=179
+logcat.view.colsize.Tag=156
 logcat.view.colsize.Level=38
 emulatorControl.waypoint.name=127
-logcat.view.colsize.Application=239
+logcat.view.colsize.Application=131
 emulatorControl.waypoint.latitude=126
 eclipse.preferences.version=1
-logcat.view.colsize.TID=82
+logcat.view.colsize.TID=45
 heapPanel.col6=129
 threadPanel.Col5=474
 emulatorControl.track.count=58

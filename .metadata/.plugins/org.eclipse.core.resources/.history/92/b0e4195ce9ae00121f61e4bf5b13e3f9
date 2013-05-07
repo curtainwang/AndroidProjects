@@ -1,6 +1,0 @@
-package com.weather.app;
-
-public class MainActivity extends Acitivy {
-	
-	
-}
