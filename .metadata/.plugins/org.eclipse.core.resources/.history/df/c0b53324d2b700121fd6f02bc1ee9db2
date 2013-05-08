@@ -1,0 +1,21 @@
+package com.android.actionbar.googlenative;
+
+import android.R;
+import android.app.Activity;
+import android.os.Bundle;
+import android.widget.TextView;
+
+public class NativeActivity extends Activity {
+	private TextView myTextView = null;
+	
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		
+		setContentView(R.layou);
+		
+		myTextView = (TextView)findViewById(R.id.myTextView);
+		myTextView.setText(R.string.other);
+	}
+}

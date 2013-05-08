@@ -46,7 +46,6 @@ public class Fruit implements Parcelable {
 
 		@Override
 		public Fruit[] newArray(int size) {
-			// TODO Auto-generated method stub
 			return new Fruit[size];
 		}
 
@@ -54,7 +53,6 @@ public class Fruit implements Parcelable {
 
 	@Override
 	public int describeContents() {
-		// TODO Auto-generated method stub
 		return 0;
 	}
 

@@ -1,0 +1,5 @@
+package com.android.actionbar.googlenative;
+
+public class NativeActionBarActivity {
+
+}

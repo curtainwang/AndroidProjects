@@ -15,14 +15,15 @@ import android.widget.Button;
 import com.binderserver.IAidlBinder;
 
 public class BinderClientActivity extends Activity implements OnClickListener {
-	/** Called when the activity is first created. */
-	private IAidlBinder binder;
+	private static final String TAG = "BinderClientActivity";
+	private IAidlBinder mbinder;
 	private Button mGetInfo;
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
+		
 		mGetInfo = (Button) findViewById(R.id.getInfo);
 		mGetInfo.setOnClickListener(this);
 
@@ -35,12 +36,13 @@ public class BinderClientActivity extends Activity implements OnClickListener {
 
 		@Override
 		public void onServiceConnected(ComponentName name, IBinder service) {
-			binder = IAidlBinder.Stub.asInterface(service);
+			mbinder = IAidlBinder.Stub.asInterface(service);
+			Log.i(TAG, "onServiceConnected");
 		}
 
 		@Override
 		public void onServiceDisconnected(ComponentName name) {
-			binder = null;
+			mbinder = null;
 		}
 
 	};
@@ -49,17 +51,17 @@ public class BinderClientActivity extends Activity implements OnClickListener {
 	public void onClick(View v) {
 		switch (v.getId()) {
 		case R.id.getInfo:
-			if (binder == null) {
+			if (mbinder == null) {
 				Log.d("binderclient", "");
 			} else {
 				try {
 					String print = "The name of this fruit is:   "
-							+ binder.getFruit().getName() + "\n"
+							+ mbinder.getFruit().getName() + "\n"
 							+ "The color of this fruit is:   "
-							+ binder.getFruit().getColor() + "\n"
+							+ mbinder.getFruit().getColor() + "\n"
 							+ "The number of this fruit is:   "
-							+ binder.getFruit().getNumber() + "\n"
-							+ "The server says:   " + binder.getInfo();
+							+ mbinder.getFruit().getNumber() + "\n"
+							+ "The server says:   " + mbinder.getInfo();
 					mGetInfo.setText(print);
 				} catch (RemoteException e) {
 					e.printStackTrace();

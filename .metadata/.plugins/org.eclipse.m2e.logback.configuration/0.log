@@ -19,3 +19,872 @@
 2013-05-07 17:08:18,988 [Worker-17] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
 2013-05-07 17:08:19,929 [Worker-17] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
 2013-05-07 17:15:10,589 [Worker-17] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 411760 ms
+2013-05-08 16:44:50,654 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:44:52,211 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/jayway/maven/plugins/android/generation2/android-maven-plugin/3.5.3/android-maven-plugin-3.5.3.pom
+2013-05-08 16:44:52,396 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/jayway/maven/plugins/android/generation2/android-maven-plugin/3.5.3/android-maven-plugin-3.5.3.pom
+2013-05-08 16:44:52,662 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:44:53,048 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/simpligility/maven/progressive-company-super-pom/0.3.1/progressive-company-super-pom-0.3.1.pom
+2013-05-08 16:44:53,230 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/simpligility/maven/progressive-company-super-pom/0.3.1/progressive-company-super-pom-0.3.1.pom
+2013-05-08 16:44:53,519 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:44:53,877 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/android/tools/build/builder/0.3/builder-0.3.pom
+2013-05-08 16:44:53,879 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/android/tools/build/builder/0.3/builder-0.3.pom
+2013-05-08 16:44:55,123 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:44:55,580 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0.3/maven-compat-3.0.3.pom
+2013-05-08 16:44:55,584 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0.3/maven-compat-3.0.3.pom
+2013-05-08 16:44:56,317 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:44:56,670 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-7/wagon-provider-api-1.0-beta-7.pom
+2013-05-08 16:44:56,673 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-7/wagon-provider-api-1.0-beta-7.pom
+2013-05-08 16:44:56,858 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:44:57,197 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-7/wagon-1.0-beta-7.pom
+2013-05-08 16:44:57,370 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-7/wagon-1.0-beta-7.pom
+2013-05-08 16:44:57,636 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:44:57,976 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.2/plexus-utils-1.4.2.pom
+2013-05-08 16:44:57,978 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.2/plexus-utils-1.4.2.pom
+2013-05-08 16:45:00,409 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:00,939 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.3/plexus-archiver-2.3.pom
+2013-05-08 16:45:00,942 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.3/plexus-archiver-2.3.pom
+2013-05-08 16:45:06,060 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:06,409 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3/plexus-components-1.3.pom
+2013-05-08 16:45:06,411 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3/plexus-components-1.3.pom
+2013-05-08 16:45:06,904 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:07,254 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3/plexus-3.3.pom
+2013-05-08 16:45:07,461 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3/plexus-3.3.pom
+2013-05-08 16:45:10,133 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:10,473 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
+2013-05-08 16:45:10,475 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
+2013-05-08 16:45:11,047 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:11,448 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.6/plexus-io-2.0.6.pom
+2013-05-08 16:45:11,453 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.6/plexus-io-2.0.6.pom
+2013-05-08 16:45:11,638 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:12,002 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.2/plexus-components-1.2.pom
+2013-05-08 16:45:12,006 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.2/plexus-components-1.2.pom
+2013-05-08 16:45:12,225 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:12,569 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.2/plexus-3.2.pom
+2013-05-08 16:45:12,769 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.2/plexus-3.2.pom
+2013-05-08 16:45:12,985 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:13,334 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.8/plexus-utils-3.0.8.pom
+2013-05-08 16:45:13,338 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.8/plexus-utils-3.0.8.pom
+2013-05-08 16:45:16,769 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:17,233 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.pom
+2013-05-08 16:45:17,398 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.pom
+2013-05-08 16:45:17,649 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:18,028 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/25/commons-parent-25.pom
+2013-05-08 16:45:18,400 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/25/commons-parent-25.pom
+2013-05-08 16:45:18,836 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:19,207 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm/4.1/asm-4.1.pom
+2013-05-08 16:45:19,209 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm/4.1/asm-4.1.pom
+2013-05-08 16:45:19,390 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:19,729 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/4.1/asm-parent-4.1.pom
+2013-05-08 16:45:19,731 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/4.1/asm-parent-4.1.pom
+2013-05-08 16:45:20,012 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:20,365 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.13.1/aether-api-1.13.1.pom
+2013-05-08 16:45:20,368 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.13.1/aether-api-1.13.1.pom
+2013-05-08 16:45:20,589 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:20,936 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether/1.13.1/aether-1.13.1.pom
+2013-05-08 16:45:21,101 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether/1.13.1/aether-1.13.1.pom
+2013-05-08 16:45:21,311 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:21,661 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.13.1/aether-util-1.13.1.pom
+2013-05-08 16:45:21,663 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.13.1/aether-util-1.13.1.pom
+2013-05-08 16:45:21,977 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:22,318 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/github/rtyley/android-screenshot-celebrity/1.8/android-screenshot-celebrity-1.8.pom
+2013-05-08 16:45:22,321 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/github/rtyley/android-screenshot-celebrity/1.8/android-screenshot-celebrity-1.8.pom
+2013-05-08 16:45:22,738 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:24,604 [New I/O client worker #25-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.3/plexus-archiver-2.3.jar
+2013-05-08 16:45:24,607 [New I/O client worker #25-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm/4.1/asm-4.1.jar
+2013-05-08 16:45:24,606 [New I/O client worker #25-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.13.1/aether-util-1.13.1.jar
+2013-05-08 16:45:24,606 [New I/O client worker #25-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.jar
+2013-05-08 16:45:24,612 [New I/O client worker #25-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm/4.1/asm-4.1.jar
+2013-05-08 16:45:24,611 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/jayway/maven/plugins/android/generation2/android-maven-plugin/3.5.3/android-maven-plugin-3.5.3.jar
+2013-05-08 16:45:24,610 [New I/O client worker #25-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/android/tools/build/builder/0.3/builder-0.3.jar
+2013-05-08 16:45:24,610 [New I/O client worker #25-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.6/plexus-io-2.0.6.jar
+2013-05-08 16:45:24,607 [New I/O client worker #25-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar
+2013-05-08 16:45:24,628 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/github/rtyley/android-screenshot-celebrity/1.8/android-screenshot-celebrity-1.8.jar
+2013-05-08 16:45:24,628 [New I/O client worker #25-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.6/plexus-io-2.0.6.jar
+2013-05-08 16:45:24,631 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/github/rtyley/android-screenshot-celebrity/1.8/android-screenshot-celebrity-1.8.jar
+2013-05-08 16:45:25,328 [New I/O client worker #25-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.jar
+2013-05-08 16:45:25,608 [New I/O client worker #25-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.3/plexus-archiver-2.3.jar
+2013-05-08 16:45:25,659 [New I/O client worker #25-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar
+2013-05-08 16:45:25,688 [New I/O client worker #25-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.13.1/aether-util-1.13.1.jar
+2013-05-08 16:45:26,138 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/jayway/maven/plugins/android/generation2/android-maven-plugin/3.5.3/android-maven-plugin-3.5.3.jar
+2013-05-08 16:45:36,368 [New I/O client worker #25-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/android/tools/build/builder/0.3/builder-0.3.jar
+2013-05-08 16:45:44,074 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:44,448 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/code/maven-replacer-plugin/maven-replacer-plugin/1.4.0/maven-replacer-plugin-1.4.0.jar
+2013-05-08 16:45:44,799 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/maven-replacer-plugin/maven-replacer-plugin/1.4.0/maven-replacer-plugin-1.4.0.jar
+2013-05-08 16:45:45,630 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:46,004 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.0/maven-compiler-plugin-3.0.jar
+2013-05-08 16:45:46,367 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.0/maven-compiler-plugin-3.0.jar
+2013-05-08 16:45:47,500 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:47,857 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.7/build-helper-maven-plugin-1.7.jar
+2013-05-08 16:45:48,197 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.7/build-helper-maven-plugin-1.7.jar
+2013-05-08 16:45:48,617 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:48,962 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-checkstyle-plugin/2.10/maven-checkstyle-plugin-2.10.jar
+2013-05-08 16:45:49,702 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-checkstyle-plugin/2.10/maven-checkstyle-plugin-2.10.jar
+2013-05-08 16:45:50,265 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:50,634 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.0/maven-compiler-plugin-3.0.pom
+2013-05-08 16:45:50,819 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.0/maven-compiler-plugin-3.0.pom
+2013-05-08 16:45:51,062 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:51,449 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.pom
+2013-05-08 16:45:51,450 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.pom
+2013-05-08 16:45:51,658 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:52,010 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.9/maven-2.0.9.pom
+2013-05-08 16:45:52,384 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.9/maven-2.0.9.pom
+2013-05-08 16:45:52,569 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:52,912 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/8/maven-parent-8.pom
+2013-05-08 16:45:53,266 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/8/maven-parent-8.pom
+2013-05-08 16:45:53,460 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:53,817 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.pom
+2013-05-08 16:45:53,818 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.pom
+2013-05-08 16:45:54,010 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:54,357 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.pom
+2013-05-08 16:45:54,360 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.pom
+2013-05-08 16:45:54,571 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:55,127 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom
+2013-05-08 16:45:55,129 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom
+2013-05-08 16:45:55,360 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:55,704 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.pom
+2013-05-08 16:45:55,706 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.pom
+2013-05-08 16:45:55,899 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:56,258 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom
+2013-05-08 16:45:56,260 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom
+2013-05-08 16:45:56,451 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:56,806 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.pom
+2013-05-08 16:45:56,808 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.pom
+2013-05-08 16:45:56,997 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:57,340 [New I/O client worker #40-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.pom
+2013-05-08 16:45:57,342 [New I/O client worker #40-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.pom
+2013-05-08 16:45:57,537 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:57,903 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.pom
+2013-05-08 16:45:57,906 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.pom
+2013-05-08 16:45:58,090 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:58,438 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.pom
+2013-05-08 16:45:58,453 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.pom
+2013-05-08 16:45:58,659 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:59,020 [New I/O client worker #43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.pom
+2013-05-08 16:45:59,022 [New I/O client worker #43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.pom
+2013-05-08 16:45:59,210 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:45:59,576 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.pom
+2013-05-08 16:45:59,578 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.pom
+2013-05-08 16:45:59,782 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:00,129 [New I/O client worker #45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.pom
+2013-05-08 16:46:00,132 [New I/O client worker #45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.pom
+2013-05-08 16:46:00,327 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:00,668 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.pom
+2013-05-08 16:46:00,670 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.pom
+2013-05-08 16:46:00,908 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:01,268 [New I/O client worker #47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.pom
+2013-05-08 16:46:01,270 [New I/O client worker #47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.pom
+2013-05-08 16:46:01,496 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:01,870 [New I/O client worker #48-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.pom
+2013-05-08 16:46:01,873 [New I/O client worker #48-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.pom
+2013-05-08 16:46:02,091 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:02,457 [New I/O client worker #49-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/18/maven-shared-components-18.pom
+2013-05-08 16:46:02,460 [New I/O client worker #49-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/18/maven-shared-components-18.pom
+2013-05-08 16:46:04,207 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:04,576 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.pom
+2013-05-08 16:46:04,579 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.pom
+2013-05-08 16:46:05,272 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:05,950 [New I/O client worker #51-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.0/maven-shared-incremental-1.0.pom
+2013-05-08 16:46:05,952 [New I/O client worker #51-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.0/maven-shared-incremental-1.0.pom
+2013-05-08 16:46:06,932 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:07,786 [New I/O client worker #52-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.pom
+2013-05-08 16:46:07,787 [New I/O client worker #52-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.pom
+2013-05-08 16:46:08,487 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:08,829 [New I/O client worker #53-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.2.1/maven-2.2.1.pom
+2013-05-08 16:46:09,026 [New I/O client worker #53-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.2.1/maven-2.2.1.pom
+2013-05-08 16:46:09,852 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:10,208 [New I/O client worker #54-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/11/maven-parent-11.pom
+2013-05-08 16:46:10,546 [New I/O client worker #54-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/11/maven-parent-11.pom
+2013-05-08 16:46:10,736 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:11,092 [New I/O client worker #55-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/apache/5/apache-5.pom
+2013-05-08 16:46:11,094 [New I/O client worker #55-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/apache/5/apache-5.pom
+2013-05-08 16:46:11,281 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:11,629 [New I/O client worker #56-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom
+2013-05-08 16:46:12,015 [New I/O client worker #56-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom
+2013-05-08 16:46:12,230 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:12,588 [New I/O client worker #57-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.pom
+2013-05-08 16:46:12,591 [New I/O client worker #57-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.pom
+2013-05-08 16:46:12,788 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:13,167 [New I/O client worker #58-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
+2013-05-08 16:46:13,168 [New I/O client worker #58-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
+2013-05-08 16:46:13,648 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:14,036 [New I/O client worker #59-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.pom
+2013-05-08 16:46:14,039 [New I/O client worker #59-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.pom
+2013-05-08 16:46:14,279 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:14,667 [New I/O client worker #60-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.pom
+2013-05-08 16:46:14,669 [New I/O client worker #60-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.pom
+2013-05-08 16:46:14,909 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:15,276 [New I/O client worker #61-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom
+2013-05-08 16:46:15,277 [New I/O client worker #61-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom
+2013-05-08 16:46:15,509 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:16,026 [New I/O client worker #62-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.6/slf4j-parent-1.5.6.pom
+2013-05-08 16:46:16,028 [New I/O client worker #62-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.6/slf4j-parent-1.5.6.pom
+2013-05-08 16:46:16,270 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:16,667 [New I/O client worker #63-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom
+2013-05-08 16:46:16,669 [New I/O client worker #63-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom
+2013-05-08 16:46:16,857 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:17,206 [New I/O client worker #64-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.pom
+2013-05-08 16:46:17,208 [New I/O client worker #64-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.pom
+2013-05-08 16:46:17,398 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:17,746 [New I/O client worker #65-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.pom
+2013-05-08 16:46:17,748 [New I/O client worker #65-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.pom
+2013-05-08 16:46:17,945 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:18,307 [New I/O client worker #66-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.pom
+2013-05-08 16:46:18,309 [New I/O client worker #66-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.pom
+2013-05-08 16:46:18,495 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:18,846 [New I/O client worker #67-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.pom
+2013-05-08 16:46:18,848 [New I/O client worker #67-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.pom
+2013-05-08 16:46:19,070 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:19,426 [New I/O client worker #68-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.pom
+2013-05-08 16:46:19,427 [New I/O client worker #68-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.pom
+2013-05-08 16:46:19,619 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:19,967 [New I/O client worker #69-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.pom
+2013-05-08 16:46:19,972 [New I/O client worker #69-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.pom
+2013-05-08 16:46:20,165 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:20,517 [New I/O client worker #70-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.pom
+2013-05-08 16:46:20,522 [New I/O client worker #70-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.pom
+2013-05-08 16:46:20,712 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:21,076 [New I/O client worker #71-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.pom
+2013-05-08 16:46:21,080 [New I/O client worker #71-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.pom
+2013-05-08 16:46:21,266 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:21,616 [New I/O client worker #72-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.pom
+2013-05-08 16:46:21,618 [New I/O client worker #72-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.pom
+2013-05-08 16:46:21,809 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:22,149 [New I/O client worker #73-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.pom
+2013-05-08 16:46:22,152 [New I/O client worker #73-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.pom
+2013-05-08 16:46:22,343 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:22,695 [New I/O client worker #74-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom
+2013-05-08 16:46:22,697 [New I/O client worker #74-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom
+2013-05-08 16:46:22,888 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:23,272 [New I/O client worker #75-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.0/plexus-compiler-api-2.0.pom
+2013-05-08 16:46:23,273 [New I/O client worker #75-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.0/plexus-compiler-api-2.0.pom
+2013-05-08 16:46:23,466 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:23,815 [New I/O client worker #76-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.0/plexus-compiler-2.0.pom
+2013-05-08 16:46:23,816 [New I/O client worker #76-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.0/plexus-compiler-2.0.pom
+2013-05-08 16:46:24,010 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:24,362 [New I/O client worker #77-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.0/plexus-compiler-manager-2.0.pom
+2013-05-08 16:46:24,365 [New I/O client worker #77-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.0/plexus-compiler-manager-2.0.pom
+2013-05-08 16:46:24,563 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:24,917 [New I/O client worker #78-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.0/plexus-compiler-javac-2.0.pom
+2013-05-08 16:46:24,918 [New I/O client worker #78-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.0/plexus-compiler-javac-2.0.pom
+2013-05-08 16:46:25,162 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:25,545 [New I/O client worker #79-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.0/plexus-compilers-2.0.pom
+2013-05-08 16:46:25,547 [New I/O client worker #79-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.0/plexus-compilers-2.0.pom
+2013-05-08 16:46:25,731 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:26,086 [New I/O client worker #80-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.pom
+2013-05-08 16:46:26,089 [New I/O client worker #80-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.pom
+2013-05-08 16:46:26,270 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:26,615 [New I/O client worker #81-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.5/plexus-utils-1.4.5.pom
+2013-05-08 16:46:26,617 [New I/O client worker #81-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.5/plexus-utils-1.4.5.pom
+2013-05-08 16:46:26,795 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:28,008 [New I/O client worker #82-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.2/plexus-classworlds-2.2.2.pom
+2013-05-08 16:46:28,011 [New I/O client worker #82-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.2/plexus-classworlds-2.2.2.pom
+2013-05-08 16:46:28,225 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:28,575 [New I/O client worker #83-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.pom
+2013-05-08 16:46:28,577 [New I/O client worker #83-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.pom
+2013-05-08 16:46:28,756 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:29,097 [New I/O client worker #84-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.4/xbean-3.4.pom
+2013-05-08 16:46:29,286 [New I/O client worker #84-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.4/xbean-3.4.pom
+2013-05-08 16:46:29,477 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:29,819 [New I/O client worker #85-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.pom
+2013-05-08 16:46:29,822 [New I/O client worker #85-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.pom
+2013-05-08 16:46:30,016 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:31,728 [New I/O client worker #86-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.pom
+2013-05-08 16:46:31,730 [New I/O client worker #86-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.pom
+2013-05-08 16:46:31,909 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:32,275 [New I/O client worker #87-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.pom
+2013-05-08 16:46:32,277 [New I/O client worker #87-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.pom
+2013-05-08 16:46:32,454 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:32,805 [New I/O client worker #88-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/google/1/google-1.pom
+2013-05-08 16:46:32,808 [New I/O client worker #88-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/google/1/google-1.pom
+2013-05-08 16:46:32,986 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:33,326 [New I/O client worker #89-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/3.8.2/junit-3.8.2.pom
+2013-05-08 16:46:33,327 [New I/O client worker #89-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/3.8.2/junit-3.8.2.pom
+2013-05-08 16:46:33,518 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:33,876 [New I/O client worker #90-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.jar
+2013-05-08 16:46:33,876 [New I/O client worker #90-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.0/plexus-compiler-javac-2.0.jar
+2013-05-08 16:46:33,885 [New I/O client worker #90-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/3.8.2/junit-3.8.2.jar
+2013-05-08 16:46:33,895 [New I/O client worker #90-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.jar
+2013-05-08 16:46:33,895 [New I/O client worker #90-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.jar
+2013-05-08 16:46:33,915 [New I/O client worker #90-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.jar
+2013-05-08 16:46:33,935 [New I/O client worker #90-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.0/maven-shared-incremental-1.0.jar
+2013-05-08 16:46:33,935 [New I/O client worker #90-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.0/plexus-compiler-api-2.0.jar
+2013-05-08 16:46:33,944 [New I/O client worker #90-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.jar
+2013-05-08 16:46:33,955 [New I/O client worker #90-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.jar
+2013-05-08 16:46:34,126 [New I/O client worker #90-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.0/plexus-compiler-manager-2.0.jar
+2013-05-08 16:46:34,127 [New I/O client worker #90-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.0/plexus-compiler-manager-2.0.jar
+2013-05-08 16:46:34,276 [New I/O client worker #90-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.0/plexus-compiler-javac-2.0.jar
+2013-05-08 16:46:34,345 [New I/O client worker #90-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.jar
+2013-05-08 16:46:34,866 [New I/O client worker #90-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.0/maven-shared-incremental-1.0.jar
+2013-05-08 16:46:35,364 [New I/O client worker #90-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.jar
+2013-05-08 16:46:36,090 [New I/O client worker #90-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/3.8.2/junit-3.8.2.jar
+2013-05-08 16:46:36,524 [New I/O client worker #90-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.jar
+2013-05-08 16:46:36,645 [New I/O client worker #90-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.0/plexus-compiler-api-2.0.jar
+2013-05-08 16:46:37,461 [New I/O client worker #90-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.jar
+2013-05-08 16:46:38,727 [New I/O client worker #90-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.jar
+2013-05-08 16:46:40,126 [New I/O client worker #90-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.jar
+2013-05-08 16:46:40,197 [New I/O client worker #90-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.jar
+2013-05-08 16:46:49,445 [New I/O client worker #90-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.jar
+2013-05-08 16:46:54,968 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:55,308 [New I/O client worker #91-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar
+2013-05-08 16:46:56,991 [New I/O client worker #91-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar
+2013-05-08 16:46:58,875 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:46:59,234 [New I/O client worker #92-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar
+2013-05-08 16:46:59,585 [New I/O client worker #92-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar
+2013-05-08 16:46:59,986 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:47:00,335 [New I/O client worker #93-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+2013-05-08 16:47:00,893 [New I/O client worker #93-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+2013-05-08 16:47:01,302 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:47:01,654 [New I/O client worker #94-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+2013-05-08 16:47:01,884 [New I/O client worker #94-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+2013-05-08 16:47:10,786 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2013-05-08 16:47:10,853 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2013-05-08 16:47:10,860 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2013-05-08 16:47:10,866 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2013-05-08 16:47:54,339 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.actionbarsherlock:parent:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\pom.xml.
+2013-05-08 16:47:56,538 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock\pom.xml.
+2013-05-08 16:47:56,576 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:47:56,925 [New I/O client worker #95-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/android/android/4.0.1.2/android-4.0.1.2.pom
+2013-05-08 16:47:56,927 [New I/O client worker #95-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/android/android/4.0.1.2/android-4.0.1.2.pom
+2013-05-08 16:47:57,558 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:47:57,907 [New I/O client worker #96-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2013-05-08 16:47:57,908 [New I/O client worker #96-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2013-05-08 16:47:58,087 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:47:58,429 [New I/O client worker #97-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2013-05-08 16:47:58,430 [New I/O client worker #97-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2013-05-08 16:47:58,688 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:47:59,188 [New I/O client worker #98-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2013-05-08 16:47:59,191 [New I/O client worker #98-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2013-05-08 16:47:59,370 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:47:59,729 [New I/O client worker #99-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/easytesting/fest-assert-core/2.0M10/fest-assert-core-2.0M10.pom
+2013-05-08 16:47:59,730 [New I/O client worker #99-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/easytesting/fest-assert-core/2.0M10/fest-assert-core-2.0M10.pom
+2013-05-08 16:47:59,907 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:00,412 [New I/O client worker #100-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/easytesting/fest/1.0.15/fest-1.0.15.pom
+2013-05-08 16:48:00,413 [New I/O client worker #100-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/easytesting/fest/1.0.15/fest-1.0.15.pom
+2013-05-08 16:48:00,613 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:00,953 [New I/O client worker #101-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/easytesting/fest-util/1.2.5/fest-util-1.2.5.pom
+2013-05-08 16:48:00,954 [New I/O client worker #101-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/easytesting/fest-util/1.2.5/fest-util-1.2.5.pom
+2013-05-08 16:48:01,131 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:01,598 [New I/O client worker #102-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/robolectric/robolectric/2.0-alpha-2/robolectric-2.0-alpha-2.pom
+2013-05-08 16:48:01,768 [New I/O client worker #102-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/robolectric/robolectric/2.0-alpha-2/robolectric-2.0-alpha-2.pom
+2013-05-08 16:48:01,947 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:02,290 [New I/O client worker #103-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/5/oss-parent-5.pom
+2013-05-08 16:48:02,292 [New I/O client worker #103-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/5/oss-parent-5.pom
+2013-05-08 16:48:02,473 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:02,814 [New I/O client worker #104-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/objenesis/objenesis/1.0/objenesis-1.0.pom
+2013-05-08 16:48:02,815 [New I/O client worker #104-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/objenesis/objenesis/1.0/objenesis-1.0.pom
+2013-05-08 16:48:03,041 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:03,384 [New I/O client worker #105-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.7.2/sqlite-jdbc-3.7.2.pom
+2013-05-08 16:48:03,386 [New I/O client worker #105-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.7.2/sqlite-jdbc-3.7.2.pom
+2013-05-08 16:48:03,563 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:04,072 [New I/O client worker #106-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/xerial/xerial-project/1.1/xerial-project-1.1.pom
+2013-05-08 16:48:04,074 [New I/O client worker #106-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/xerial/xerial-project/1.1/xerial-project-1.1.pom
+2013-05-08 16:48:04,253 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:04,594 [New I/O client worker #107-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/xerial/xerial/3/xerial-3.pom
+2013-05-08 16:48:04,596 [New I/O client worker #107-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/xerial/xerial/3/xerial-3.pom
+2013-05-08 16:48:06,147 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:06,657 [New I/O client worker #108-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/javassist/javassist/3.14.0-GA/javassist-3.14.0-GA.pom
+2013-05-08 16:48:06,659 [New I/O client worker #108-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/javassist/javassist/3.14.0-GA/javassist-3.14.0-GA.pom
+2013-05-08 16:48:06,879 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:07,228 [New I/O client worker #109-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/4.1/asm-commons-4.1.pom
+2013-05-08 16:48:07,229 [New I/O client worker #109-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/4.1/asm-commons-4.1.pom
+2013-05-08 16:48:07,435 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:07,774 [New I/O client worker #110-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1.pom
+2013-05-08 16:48:07,775 [New I/O client worker #110-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1.pom
+2013-05-08 16:48:07,953 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:08,293 [New I/O client worker #111-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1.pom
+2013-05-08 16:48:08,295 [New I/O client worker #111-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1.pom
+2013-05-08 16:48:08,482 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:08,825 [New I/O client worker #112-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1.pom
+2013-05-08 16:48:08,826 [New I/O client worker #112-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1.pom
+2013-05-08 16:48:09,011 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:09,514 [New I/O client worker #113-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.0.3/httpclient-4.0.3.pom
+2013-05-08 16:48:09,516 [New I/O client worker #113-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.0.3/httpclient-4.0.3.pom
+2013-05-08 16:48:09,693 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:10,043 [New I/O client worker #114-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.0.3/httpcomponents-client-4.0.3.pom
+2013-05-08 16:48:10,206 [New I/O client worker #114-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.0.3/httpcomponents-client-4.0.3.pom
+2013-05-08 16:48:10,387 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:10,465 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2013-05-08 16:48:10,728 [New I/O client worker #115-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/4.1/project-4.1.pom
+2013-05-08 16:48:10,901 [New I/O client worker #115-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/4.1/project-4.1.pom
+2013-05-08 16:48:11,101 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:11,443 [New I/O client worker #116-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-ant-tasks/2.1.3/maven-ant-tasks-2.1.3.pom
+2013-05-08 16:48:11,610 [New I/O client worker #116-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-ant-tasks/2.1.3/maven-ant-tasks-2.1.3.pom
+2013-05-08 16:48:11,854 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:12,384 [New I/O client worker #117-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ant/ant/1.8.0/ant-1.8.0.pom
+2013-05-08 16:48:12,553 [New I/O client worker #117-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ant/ant/1.8.0/ant-1.8.0.pom
+2013-05-08 16:48:12,736 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:13,101 [New I/O client worker #118-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ant/ant-parent/1.8.0/ant-parent-1.8.0.pom
+2013-05-08 16:48:13,106 [New I/O client worker #118-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ant/ant-parent/1.8.0/ant-parent-1.8.0.pom
+2013-05-08 16:48:13,292 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:13,641 [New I/O client worker #119-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.8.0/ant-launcher-1.8.0.pom
+2013-05-08 16:48:13,646 [New I/O client worker #119-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.8.0/ant-launcher-1.8.0.pom
+2013-05-08 16:48:13,832 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:14,173 [New I/O client worker #120-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6.pom
+2013-05-08 16:48:14,175 [New I/O client worker #120-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6.pom
+2013-05-08 16:48:14,366 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:14,713 [New I/O client worker #121-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-6/wagon-1.0-beta-6.pom
+2013-05-08 16:48:14,901 [New I/O client worker #121-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-6/wagon-1.0-beta-6.pom
+2013-05-08 16:48:15,083 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:15,429 [New I/O client worker #122-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/1.0-beta-6/wagon-file-1.0-beta-6.pom
+2013-05-08 16:48:15,431 [New I/O client worker #122-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/1.0-beta-6/wagon-file-1.0-beta-6.pom
+2013-05-08 16:48:15,632 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:16,010 [New I/O client worker #123-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-providers/1.0-beta-6/wagon-providers-1.0-beta-6.pom
+2013-05-08 16:48:16,011 [New I/O client worker #123-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-providers/1.0-beta-6/wagon-providers-1.0-beta-6.pom
+2013-05-08 16:48:16,209 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:16,553 [New I/O client worker #124-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-lightweight/1.0-beta-6/wagon-http-lightweight-1.0-beta-6.pom
+2013-05-08 16:48:16,561 [New I/O client worker #124-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-lightweight/1.0-beta-6/wagon-http-lightweight-1.0-beta-6.pom
+2013-05-08 16:48:16,754 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:17,099 [New I/O client worker #125-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-shared/1.0-beta-6/wagon-http-shared-1.0-beta-6.pom
+2013-05-08 16:48:17,101 [New I/O client worker #125-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-shared/1.0-beta-6/wagon-http-shared-1.0-beta-6.pom
+2013-05-08 16:48:17,350 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:17,702 [New I/O client worker #126-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/nekohtml/xercesMinimal/1.9.6.2/xercesMinimal-1.9.6.2.pom
+2013-05-08 16:48:17,703 [New I/O client worker #126-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/nekohtml/xercesMinimal/1.9.6.2/xercesMinimal-1.9.6.2.pom
+2013-05-08 16:48:17,894 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:18,381 [New I/O client worker #127-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/nekohtml/nekohtml/1.9.6.2/nekohtml-1.9.6.2.pom
+2013-05-08 16:48:18,382 [New I/O client worker #127-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/nekohtml/nekohtml/1.9.6.2/nekohtml-1.9.6.2.pom
+2013-05-08 16:48:18,698 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:48:19,041 [New I/O client worker #128-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2013-05-08 16:48:19,050 [New I/O client worker #128-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+2013-05-08 16:48:19,051 [New I/O client worker #128-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/easytesting/fest-assert-core/2.0M10/fest-assert-core-2.0M10.jar
+2013-05-08 16:48:19,051 [New I/O client worker #128-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/android/android/4.0.1.2/android-4.0.1.2.jar
+2013-05-08 16:48:19,051 [New I/O client worker #128-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.7.2/sqlite-jdbc-3.7.2.jar
+2013-05-08 16:48:19,051 [New I/O client worker #128-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/objenesis/objenesis/1.0/objenesis-1.0.jar
+2013-05-08 16:48:19,061 [New I/O client worker #128-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/robolectric/robolectric/2.0-alpha-2/robolectric-2.0-alpha-2.jar
+2013-05-08 16:48:19,124 [New I/O client worker #128-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-ant-tasks/2.1.3/maven-ant-tasks-2.1.3.jar
+2013-05-08 16:48:19,161 [New I/O client worker #128-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/4.1/asm-commons-4.1.jar
+2013-05-08 16:48:19,161 [New I/O client worker #128-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/easytesting/fest-util/1.2.5/fest-util-1.2.5.jar
+2013-05-08 16:48:19,161 [New I/O client worker #128-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1.jar
+2013-05-08 16:48:19,171 [New I/O client worker #128-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/javassist/javassist/3.14.0-GA/javassist-3.14.0-GA.jar
+2013-05-08 16:48:19,191 [New I/O client worker #128-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ant/ant/1.8.0/ant-1.8.0.jar
+2013-05-08 16:48:19,221 [New I/O client worker #128-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1.jar
+2013-05-08 16:48:19,231 [New I/O client worker #128-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1.jar
+2013-05-08 16:48:19,281 [New I/O client worker #128-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.jar
+2013-05-08 16:48:19,291 [New I/O client worker #128-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.jar
+2013-05-08 16:48:19,401 [New I/O client worker #128-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.jar
+2013-05-08 16:48:19,491 [New I/O client worker #128-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/nekohtml/nekohtml/1.9.6.2/nekohtml-1.9.6.2.jar
+2013-05-08 16:48:19,592 [New I/O client worker #128-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/nekohtml/xercesMinimal/1.9.6.2/xercesMinimal-1.9.6.2.jar
+2013-05-08 16:48:19,611 [New I/O client worker #128-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-shared/1.0-beta-6/wagon-http-shared-1.0-beta-6.jar
+2013-05-08 16:48:19,627 [New I/O client worker #128-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.8.0/ant-launcher-1.8.0.jar
+2013-05-08 16:48:19,691 [New I/O client worker #128-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.jar
+2013-05-08 16:48:19,712 [New I/O client worker #128-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.jar
+2013-05-08 16:48:19,724 [New I/O client worker #128-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar
+2013-05-08 16:48:19,791 [New I/O client worker #128-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar
+2013-05-08 16:48:19,821 [New I/O client worker #128-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-lightweight/1.0-beta-6/wagon-http-lightweight-1.0-beta-6.jar
+2013-05-08 16:48:19,834 [New I/O client worker #128-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6.jar
+2013-05-08 16:48:19,971 [New I/O client worker #128-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.jar
+2013-05-08 16:48:20,002 [New I/O client worker #128-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1.jar
+2013-05-08 16:48:20,031 [New I/O client worker #128-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.jar
+2013-05-08 16:48:20,041 [New I/O client worker #128-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.jar
+2013-05-08 16:48:20,051 [New I/O client worker #128-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/1.0-beta-6/wagon-file-1.0-beta-6.jar
+2013-05-08 16:48:20,071 [New I/O client worker #128-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar
+2013-05-08 16:48:20,110 [New I/O client worker #128-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.jar
+2013-05-08 16:48:20,191 [New I/O client worker #128-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.jar
+2013-05-08 16:48:20,201 [New I/O client worker #128-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.jar
+2013-05-08 16:48:20,290 [New I/O client worker #128-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.jar
+2013-05-08 16:48:21,547 [New I/O client worker #128-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/objenesis/objenesis/1.0/objenesis-1.0.jar
+2013-05-08 16:48:21,549 [New I/O client worker #128-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/4.1/asm-commons-4.1.jar
+2013-05-08 16:48:21,547 [New I/O client worker #128-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1.jar
+2013-05-08 16:48:21,557 [New I/O client worker #128-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/easytesting/fest-util/1.2.5/fest-util-1.2.5.jar
+2013-05-08 16:48:21,547 [New I/O client worker #128-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.8.0/ant-launcher-1.8.0.jar
+2013-05-08 16:48:21,554 [New I/O client worker #128-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/1.0-beta-6/wagon-file-1.0-beta-6.jar
+2013-05-08 16:48:22,325 [New I/O client worker #128-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-shared/1.0-beta-6/wagon-http-shared-1.0-beta-6.jar
+2013-05-08 16:48:22,455 [New I/O client worker #128-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.jar
+2013-05-08 16:48:22,640 [New I/O client worker #128-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/nekohtml/xercesMinimal/1.9.6.2/xercesMinimal-1.9.6.2.jar
+2013-05-08 16:48:22,690 [New I/O client worker #128-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar
+2013-05-08 16:48:23,471 [New I/O client worker #128-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+2013-05-08 16:48:23,865 [New I/O client worker #128-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/nekohtml/nekohtml/1.9.6.2/nekohtml-1.9.6.2.jar
+2013-05-08 16:48:23,980 [New I/O client worker #128-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar
+2013-05-08 16:48:24,145 [New I/O client worker #128-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.jar
+2013-05-08 16:48:24,227 [New I/O client worker #128-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar
+2013-05-08 16:48:24,254 [New I/O client worker #128-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6.jar
+2013-05-08 16:48:24,303 [New I/O client worker #128-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.jar
+2013-05-08 16:48:24,336 [New I/O client worker #128-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.jar
+2013-05-08 16:48:24,575 [New I/O client worker #128-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-lightweight/1.0-beta-6/wagon-http-lightweight-1.0-beta-6.jar
+2013-05-08 16:48:24,722 [New I/O client worker #128-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1.jar
+2013-05-08 16:48:24,803 [New I/O client worker #128-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.jar
+2013-05-08 16:48:24,821 [New I/O client worker #128-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/easytesting/fest-assert-core/2.0M10/fest-assert-core-2.0M10.jar
+2013-05-08 16:48:25,829 [Worker-214] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\demos
+2013-05-08 16:48:25,831 [Worker-214] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2013-05-08 16:48:25,855 [New I/O client worker #128-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.jar
+2013-05-08 16:48:26,710 [New I/O client worker #128-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.jar
+2013-05-08 16:48:26,951 [New I/O client worker #128-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.jar
+2013-05-08 16:48:27,072 [New I/O client worker #128-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2013-05-08 16:48:28,411 [New I/O client worker #128-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.jar
+2013-05-08 16:48:31,284 [New I/O client worker #128-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.jar
+2013-05-08 16:48:33,006 [New I/O client worker #128-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/robolectric/robolectric/2.0-alpha-2/robolectric-2.0-alpha-2.jar
+2013-05-08 16:48:33,493 [New I/O client worker #128-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/javassist/javassist/3.14.0-GA/javassist-3.14.0-GA.jar
+2013-05-08 16:48:38,851 [New I/O client worker #128-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-ant-tasks/2.1.3/maven-ant-tasks-2.1.3.jar
+2013-05-08 16:48:40,376 [New I/O client worker #128-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ant/ant/1.8.0/ant-1.8.0.jar
+2013-05-08 16:48:57,863 [New I/O client worker #128-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.7.2/sqlite-jdbc-3.7.2.jar
+2013-05-08 16:49:42,579 [Worker-215] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\demos
+2013-05-08 16:49:42,581 [Worker-215] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-05-08 16:49:42,777 [New I/O client worker #128-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/android/android/4.0.1.2/android-4.0.1.2.jar
+2013-05-08 16:49:43,655 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:49:44,586 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:49:45,674 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:49:46,629 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:49:47,623 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:49:48,769 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:49:49,786 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:49:51,023 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:49:52,983 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:49:53,710 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:49:54,618 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:49:55,559 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:49:56,734 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:49:57,587 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock-fest:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-fest\pom.xml.
+2013-05-08 16:49:57,661 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:49:58,065 [New I/O client worker #129-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/squareup/fest-android/1.0.4/fest-android-1.0.4.pom
+2013-05-08 16:49:58,068 [New I/O client worker #129-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/squareup/fest-android/1.0.4/fest-android-1.0.4.pom
+2013-05-08 16:49:58,258 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:49:58,649 [New I/O client worker #130-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/squareup/fest-android/1.0.4/fest-android-1.0.4.jar
+2013-05-08 16:49:59,937 [New I/O client worker #130-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/squareup/fest-android/1.0.4/fest-android-1.0.4.jar
+2013-05-08 16:50:01,920 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock-i18n:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-i18n\pom.xml.
+2013-05-08 16:50:01,974 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.actionbarsherlock:parent-sample:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\pom.xml.
+2013-05-08 16:50:02,169 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-demos:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\demos\pom.xml.
+2013-05-08 16:50:02,535 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-fragments:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\fragments\pom.xml.
+2013-05-08 16:50:02,870 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-known-bugs:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\known-bugs\pom.xml.
+2013-05-08 16:50:03,078 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-roboguice:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\roboguice\pom.xml.
+2013-05-08 16:50:03,098 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:03,649 [New I/O client worker #131-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/github/rtyley/roboguice-sherlock/1.5/roboguice-sherlock-1.5.pom
+2013-05-08 16:50:03,652 [New I/O client worker #131-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/github/rtyley/roboguice-sherlock/1.5/roboguice-sherlock-1.5.pom
+2013-05-08 16:50:03,847 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:04,407 [New I/O client worker #132-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/roboguice/roboguice/2.0/roboguice-2.0.pom
+2013-05-08 16:50:04,408 [New I/O client worker #132-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/roboguice/roboguice/2.0/roboguice-2.0.pom
+2013-05-08 16:50:04,615 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:04,988 [New I/O client worker #133-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/6/oss-parent-6.pom
+2013-05-08 16:50:04,990 [New I/O client worker #133-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/6/oss-parent-6.pom
+2013-05-08 16:50:05,190 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:05,716 [New I/O client worker #134-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/inject/guice/3.0/guice-3.0.pom
+2013-05-08 16:50:05,718 [New I/O client worker #134-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/inject/guice/3.0/guice-3.0.pom
+2013-05-08 16:50:05,996 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:06,407 [New I/O client worker #135-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/inject/guice-parent/3.0/guice-parent-3.0.pom
+2013-05-08 16:50:06,790 [New I/O client worker #135-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/inject/guice-parent/3.0/guice-parent-3.0.pom
+2013-05-08 16:50:07,029 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:08,666 [New I/O client worker #136-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom
+2013-05-08 16:50:08,668 [New I/O client worker #136-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom
+2013-05-08 16:50:08,856 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:09,206 [New I/O client worker #137-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2013-05-08 16:50:09,209 [New I/O client worker #137-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2013-05-08 16:50:09,388 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:09,730 [New I/O client worker #138-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2013-05-08 16:50:09,732 [New I/O client worker #138-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2013-05-08 16:50:09,925 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:10,267 [New I/O client worker #139-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/github/rtyley/roboguice-sherlock/1.5/roboguice-sherlock-1.5.jar
+2013-05-08 16:50:10,277 [New I/O client worker #139-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2013-05-08 16:50:10,279 [New I/O client worker #139-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2013-05-08 16:50:10,286 [New I/O client worker #139-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/roboguice/roboguice/2.0/roboguice-2.0.jar
+2013-05-08 16:50:10,296 [New I/O client worker #139-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2013-05-08 16:50:10,297 [New I/O client worker #139-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2013-05-08 16:50:10,307 [New I/O client worker #139-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/inject/guice/3.0/guice-3.0-no_aop.jar
+2013-05-08 16:50:10,439 [New I/O client worker #139-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/github/rtyley/roboguice-sherlock/1.5/roboguice-sherlock-1.5.jar
+2013-05-08 16:50:11,216 [New I/O client worker #139-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/roboguice/roboguice/2.0/roboguice-2.0.jar
+2013-05-08 16:50:12,211 [New I/O client worker #139-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/inject/guice/3.0/guice-3.0-no_aop.jar
+2013-05-08 16:50:13,720 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-05-08 16:50:14,269 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-styled:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\styled\pom.xml.
+2013-05-08 16:50:14,300 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:14,696 [New I/O client worker #140-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/nineoldandroids/library/2.4.0/library-2.4.0.pom
+2013-05-08 16:50:14,698 [New I/O client worker #140-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/nineoldandroids/library/2.4.0/library-2.4.0.pom
+2013-05-08 16:50:14,895 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:15,286 [New I/O client worker #141-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/nineoldandroids/parent/2.4.0/parent-2.4.0.pom
+2013-05-08 16:50:15,288 [New I/O client worker #141-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/nineoldandroids/parent/2.4.0/parent-2.4.0.pom
+2013-05-08 16:50:15,616 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:15,982 [New I/O client worker #142-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/nineoldandroids/library/2.4.0/library-2.4.0.jar
+2013-05-08 16:50:16,843 [New I/O client worker #142-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/nineoldandroids/library/2.4.0/library-2.4.0.jar
+2013-05-08 16:50:24,794 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:25,618 [New I/O client worker #143-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/code/maven-replacer-plugin/maven-replacer-plugin/1.4.0/maven-replacer-plugin-1.4.0.pom
+2013-05-08 16:50:25,623 [New I/O client worker #143-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/maven-replacer-plugin/maven-replacer-plugin/1.4.0/maven-replacer-plugin-1.4.0.pom
+2013-05-08 16:50:25,855 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:26,236 [New I/O client worker #144-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.7/build-helper-maven-plugin-1.7.pom
+2013-05-08 16:50:26,238 [New I/O client worker #144-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.7/build-helper-maven-plugin-1.7.pom
+2013-05-08 16:50:26,563 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:26,918 [New I/O client worker #145-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/28/mojo-parent-28.pom
+2013-05-08 16:50:27,251 [New I/O client worker #145-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/28/mojo-parent-28.pom
+2013-05-08 16:50:27,452 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:27,796 [New I/O client worker #146-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom
+2013-05-08 16:50:27,798 [New I/O client worker #146-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom
+2013-05-08 16:50:28,148 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:28,666 [New I/O client worker #147-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom
+2013-05-08 16:50:28,668 [New I/O client worker #147-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom
+2013-05-08 16:50:28,853 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:29,208 [New I/O client worker #148-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/19/maven-plugins-19.pom
+2013-05-08 16:50:29,386 [New I/O client worker #148-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/19/maven-plugins-19.pom
+2013-05-08 16:50:29,628 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:29,977 [New I/O client worker #149-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.pom
+2013-05-08 16:50:30,156 [New I/O client worker #149-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.pom
+2013-05-08 16:50:30,352 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:30,706 [New I/O client worker #150-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.10/surefire-2.10.pom
+2013-05-08 16:50:30,886 [New I/O client worker #150-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.10/surefire-2.10.pom
+2013-05-08 16:50:31,076 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:31,426 [New I/O client worker #151-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/20/maven-parent-20.pom
+2013-05-08 16:50:31,765 [New I/O client worker #151-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/20/maven-parent-20.pom
+2013-05-08 16:50:31,974 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:32,475 [New I/O client worker #152-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom
+2013-05-08 16:50:32,477 [New I/O client worker #152-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom
+2013-05-08 16:50:32,745 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:50:33,084 [New I/O client worker #153-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom
+2013-05-08 16:50:33,252 [New I/O client worker #153-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom
+2013-05-08 16:50:42,218 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock\pom.xml.
+2013-05-08 16:50:42,336 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actionbarsherlock/src
+2013-05-08 16:50:42,372 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actionbarsherlock/test
+2013-05-08 16:50:46,692 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock-fest:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-fest\pom.xml.
+2013-05-08 16:50:48,776 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock-i18n:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-i18n\pom.xml.
+2013-05-08 16:50:49,101 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actionbarsherlock/src
+2013-05-08 16:50:49,103 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actionbarsherlock/test
+2013-05-08 16:50:52,848 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.actionbarsherlock:parent:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\pom.xml.
+2013-05-08 16:50:52,851 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.actionbarsherlock:parent-sample:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\pom.xml.
+2013-05-08 16:50:53,175 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock\pom.xml.
+2013-05-08 16:50:55,056 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-known-bugs/src
+2013-05-08 16:50:55,058 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sample-known-bugs/src/test/java because it overlaps with /sample-known-bugs/src
+2013-05-08 16:50:57,356 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-known-bugs/src
+2013-05-08 16:50:57,357 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sample-known-bugs/src/test/java because it overlaps with /sample-known-bugs/src
+2013-05-08 16:50:57,433 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock-fest:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-fest\pom.xml.
+2013-05-08 16:50:57,733 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock-i18n:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-i18n\pom.xml.
+2013-05-08 16:50:57,769 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-styled/src
+2013-05-08 16:50:57,772 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sample-styled/src/test/java because it overlaps with /sample-styled/src
+2013-05-08 16:50:58,108 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-known-bugs:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\known-bugs\pom.xml.
+2013-05-08 16:50:59,733 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-demos:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\demos\pom.xml.
+2013-05-08 16:50:59,881 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-styled/src
+2013-05-08 16:50:59,883 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sample-styled/src/test/java because it overlaps with /sample-styled/src
+2013-05-08 16:51:00,100 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-fragments:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\fragments\pom.xml.
+2013-05-08 16:51:00,436 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actionbarsherlock-i18n/src/main/java
+2013-05-08 16:51:00,437 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actionbarsherlock-i18n/src/test/java
+2013-05-08 16:51:01,737 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-styled:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\styled\pom.xml.
+2013-05-08 16:51:02,201 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-roboguice:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\roboguice\pom.xml.
+2013-05-08 16:51:02,229 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actionbarsherlock-i18n/src/main/java
+2013-05-08 16:51:02,230 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actionbarsherlock-i18n/src/test/java
+2013-05-08 16:51:02,607 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-roboguice/src
+2013-05-08 16:51:02,608 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sample-roboguice/src/test/java because it overlaps with /sample-roboguice/src
+2013-05-08 16:51:04,547 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.actionbarsherlock:parent-sample:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\pom.xml.
+2013-05-08 16:51:04,858 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-known-bugs:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\known-bugs\pom.xml.
+2013-05-08 16:51:04,871 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-roboguice/src
+2013-05-08 16:51:04,872 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sample-roboguice/src/test/java because it overlaps with /sample-roboguice/src
+2013-05-08 16:51:06,625 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-demos:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\demos\pom.xml.
+2013-05-08 16:51:07,025 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-fragments:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\fragments\pom.xml.
+2013-05-08 16:51:07,223 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-demos/src
+2013-05-08 16:51:07,224 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sample-demos/src/test/java because it overlaps with /sample-demos/src
+2013-05-08 16:51:07,274 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-styled:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\styled\pom.xml.
+2013-05-08 16:51:09,024 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-roboguice:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\roboguice\pom.xml.
+2013-05-08 16:51:09,238 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-demos/src
+2013-05-08 16:51:09,239 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sample-demos/src/test/java because it overlaps with /sample-demos/src
+2013-05-08 16:51:09,674 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-demos:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\demos\pom.xml.
+2013-05-08 16:51:11,847 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:51:12,406 [New I/O client worker #154-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom
+2013-05-08 16:51:12,408 [New I/O client worker #154-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom
+2013-05-08 16:51:14,253 [Worker-209] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 16:51:14,591 [New I/O client worker #155-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar
+2013-05-08 16:51:14,943 [New I/O client worker #155-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar
+2013-05-08 16:51:15,534 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actionbarsherlock-fest/src/main/java
+2013-05-08 16:51:15,537 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actionbarsherlock-fest/src/test/java
+2013-05-08 16:51:15,757 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-fragments:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\fragments\pom.xml.
+2013-05-08 16:51:16,343 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-known-bugs:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\known-bugs\pom.xml.
+2013-05-08 16:51:17,965 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-fragments/src
+2013-05-08 16:51:17,966 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sample-fragments/src/test/java because it overlaps with /sample-fragments/src
+2013-05-08 16:51:18,232 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-roboguice:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\roboguice\pom.xml.
+2013-05-08 16:51:19,942 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-fragments/src
+2013-05-08 16:51:19,943 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sample-fragments/src/test/java because it overlaps with /sample-fragments/src
+2013-05-08 16:51:20,247 [Worker-209] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 214 sec
+2013-05-08 16:51:20,874 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-styled:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\styled\pom.xml.
+2013-05-08 16:51:23,193 [Worker-219] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-05-08 16:51:23,194 [Worker-219] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-05-08 16:52:13,389 [Worker-213] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock\pom.xml.
+2013-05-08 16:52:16,074 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:16,076 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock\src\main\resources
+2013-05-08 16:52:16,080 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:16,081 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock\src\test\resources
+2013-05-08 16:52:25,388 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:25,389 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock\src\main\resources
+2013-05-08 16:52:25,391 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:25,392 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock\src\test\resources
+2013-05-08 16:52:27,522 [Worker-215] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock-fest:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-fest\pom.xml.
+2013-05-08 16:52:29,525 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:29,527 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-fest\src\main\resources
+2013-05-08 16:52:29,530 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:29,530 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-fest\src\test\resources
+2013-05-08 16:52:29,921 [Worker-215] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock-i18n:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-i18n\pom.xml.
+2013-05-08 16:52:30,262 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:30,263 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-i18n\src\main\resources
+2013-05-08 16:52:30,265 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:30,266 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-i18n\src\test\resources
+2013-05-08 16:52:30,547 [Worker-215] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.actionbarsherlock:parent:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\pom.xml.
+2013-05-08 16:52:30,550 [Worker-215] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.actionbarsherlock:parent-sample:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\pom.xml.
+2013-05-08 16:52:31,913 [Worker-215] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock\pom.xml.
+2013-05-08 16:52:34,029 [Worker-215] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock-fest:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-fest\pom.xml.
+2013-05-08 16:52:34,237 [Worker-215] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock-i18n:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-i18n\pom.xml.
+2013-05-08 16:52:36,294 [Worker-215] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.actionbarsherlock:parent-sample:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-samples\pom.xml.
+2013-05-08 16:52:38,912 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:38,913 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock\src\main\resources
+2013-05-08 16:52:38,915 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:38,916 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock\src\test\resources
+2013-05-08 16:52:38,964 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:38,966 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-fest\src\main\resources
+2013-05-08 16:52:38,968 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:38,969 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-fest\src\test\resources
+2013-05-08 16:52:39,035 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:39,037 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-i18n\src\main\resources
+2013-05-08 16:52:39,039 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:52:39,039 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-i18n\src\test\resources
+2013-05-08 16:53:43,261 [Worker-217] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-demos:4.3.1 @ Z:\work\code\android\AndroidProjects\sample-demos\pom.xml.
+2013-05-08 16:53:44,045 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:53:44,046 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\work\code\android\AndroidProjects\sample-demos\src\main\resources
+2013-05-08 16:53:44,049 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:53:44,051 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\work\code\android\AndroidProjects\sample-demos\src\test\resources
+2013-05-08 16:53:46,934 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:53:46,936 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\work\code\android\AndroidProjects\sample-demos\src\main\resources
+2013-05-08 16:53:46,938 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 16:53:46,939 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\work\code\android\AndroidProjects\sample-demos\src\test\resources
+2013-05-08 17:00:07,555 [Worker-222] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:sample-demos:4.3.1 @ Z:\work\code\android\AndroidProjects\sample-demos\pom.xml.
+2013-05-08 17:00:08,090 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 17:00:08,093 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\work\code\android\AndroidProjects\sample-demos\src\main\resources
+2013-05-08 17:00:08,095 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 17:00:08,098 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\work\code\android\AndroidProjects\sample-demos\src\test\resources
+2013-05-08 17:00:08,546 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 17:00:08,547 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\work\code\android\AndroidProjects\sample-demos\src\main\resources
+2013-05-08 17:00:08,550 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-05-08 17:00:08,551 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\work\code\android\AndroidProjects\sample-demos\src\test\resources
+2013-05-08 17:01:20,795 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2013-05-08 17:02:01,513 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2013-05-08 17:02:13,197 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:13,658 [New I/O client worker #156-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4-sources.jar
+2013-05-08 17:02:14,216 [New I/O client worker #156-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4-sources.jar
+2013-05-08 17:02:14,620 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:14,982 [New I/O client worker #157-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0.4/maven-core-3.0.4-sources.jar
+2013-05-08 17:02:16,594 [New I/O client worker #157-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0.4/maven-core-3.0.4-sources.jar
+2013-05-08 17:02:17,181 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:17,525 [New I/O client worker #158-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4-sources.jar
+2013-05-08 17:02:18,207 [New I/O client worker #158-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4-sources.jar
+2013-05-08 17:02:18,685 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:19,044 [New I/O client worker #159-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0.4/maven-settings-3.0.4-sources.jar
+2013-05-08 17:02:19,387 [New I/O client worker #159-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0.4/maven-settings-3.0.4-sources.jar
+2013-05-08 17:02:19,738 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:20,078 [New I/O client worker #160-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0.4/maven-settings-builder-3.0.4-sources.jar
+2013-05-08 17:02:20,426 [New I/O client worker #160-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0.4/maven-settings-builder-3.0.4-sources.jar
+2013-05-08 17:02:20,752 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:21,115 [New I/O client worker #161-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0.4/maven-repository-metadata-3.0.4-sources.jar
+2013-05-08 17:02:21,297 [New I/O client worker #161-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0.4/maven-repository-metadata-3.0.4-sources.jar
+2013-05-08 17:02:21,696 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:22,037 [New I/O client worker #162-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0.4/maven-artifact-3.0.4-sources.jar
+2013-05-08 17:02:22,398 [New I/O client worker #162-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0.4/maven-artifact-3.0.4-sources.jar
+2013-05-08 17:02:22,733 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:24,269 [New I/O client worker #163-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0.4/maven-plugin-api-3.0.4-sources.jar
+2013-05-08 17:02:24,763 [New I/O client worker #163-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0.4/maven-plugin-api-3.0.4-sources.jar
+2013-05-08 17:02:25,139 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:25,480 [New I/O client worker #164-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0.4/maven-model-builder-3.0.4-sources.jar
+2013-05-08 17:02:26,360 [New I/O client worker #164-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0.4/maven-model-builder-3.0.4-sources.jar
+2013-05-08 17:02:26,891 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:27,233 [New I/O client worker #165-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0.4/maven-aether-provider-3.0.4-sources.jar
+2013-05-08 17:02:27,579 [New I/O client worker #165-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0.4/maven-aether-provider-3.0.4-sources.jar
+2013-05-08 17:02:28,074 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:28,437 [New I/O client worker #166-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.13.1/aether-api-1.13.1-sources.jar
+2013-05-08 17:02:29,008 [New I/O client worker #166-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.13.1/aether-api-1.13.1-sources.jar
+2013-05-08 17:02:29,608 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:29,946 [New I/O client worker #167-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.13.1/aether-util-1.13.1-sources.jar
+2013-05-08 17:02:30,711 [New I/O client worker #167-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.13.1/aether-util-1.13.1-sources.jar
+2013-05-08 17:02:31,225 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:31,576 [New I/O client worker #168-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14-sources.jar
+2013-05-08 17:02:32,266 [New I/O client worker #168-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14-sources.jar
+2013-05-08 17:02:32,643 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:32,980 [New I/O client worker #169-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6-sources.jar
+2013-05-08 17:02:34,001 [New I/O client worker #169-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6-sources.jar
+2013-05-08 17:02:34,383 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:34,723 [New I/O client worker #170-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
+2013-05-08 17:02:34,724 [New I/O client worker #170-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
+2013-05-08 17:02:35,174 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:35,521 [New I/O client worker #171-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3-sources.jar
+2013-05-08 17:02:35,695 [New I/O client worker #171-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3-sources.jar
+2013-05-08 17:02:36,163 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:36,526 [New I/O client worker #172-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.0.4/maven-embedder-3.0.4-sources.jar
+2013-05-08 17:02:36,866 [New I/O client worker #172-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.0.4/maven-embedder-3.0.4-sources.jar
+2013-05-08 17:02:37,266 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:37,609 [New I/O client worker #173-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2013-05-08 17:02:37,777 [New I/O client worker #173-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2013-05-08 17:02:38,130 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:38,477 [New I/O client worker #174-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2013-05-08 17:02:38,856 [New I/O client worker #174-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2013-05-08 17:02:39,551 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:39,892 [New I/O client worker #175-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0.4/maven-compat-3.0.4-sources.jar
+2013-05-08 17:02:41,102 [New I/O client worker #175-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0.4/maven-compat-3.0.4-sources.jar
+2013-05-08 17:02:41,478 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:41,822 [New I/O client worker #176-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.2/wagon-provider-api-2.2-sources.jar
+2013-05-08 17:02:42,319 [New I/O client worker #176-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.2/wagon-provider-api-2.2-sources.jar
+2013-05-08 17:02:42,663 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:43,003 [New I/O client worker #177-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-shim/2.3.0/guice-plexus-shim-2.3.0-sources.jar
+2013-05-08 17:02:43,565 [New I/O client worker #177-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-shim/2.3.0/guice-plexus-shim-2.3.0-sources.jar
+2013-05-08 17:02:43,991 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:45,486 [New I/O client worker #178-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-reflect/2.3.0/guice-bean-reflect-2.3.0-sources.jar
+2013-05-08 17:02:45,844 [New I/O client worker #178-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-reflect/2.3.0/guice-bean-reflect-2.3.0-sources.jar
+2013-05-08 17:02:46,175 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:46,516 [New I/O client worker #179-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-locators/2.3.0/guice-bean-locators-2.3.0-sources.jar
+2013-05-08 17:02:46,865 [New I/O client worker #179-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-locators/2.3.0/guice-bean-locators-2.3.0-sources.jar
+2013-05-08 17:02:47,339 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:47,681 [New I/O client worker #180-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-binders/2.3.0/guice-bean-binders-2.3.0-sources.jar
+2013-05-08 17:02:48,015 [New I/O client worker #180-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-binders/2.3.0/guice-bean-binders-2.3.0-sources.jar
+2013-05-08 17:02:48,450 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:48,787 [New I/O client worker #181-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-scanners/2.3.0/guice-bean-scanners-2.3.0-sources.jar
+2013-05-08 17:02:49,645 [New I/O client worker #181-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-scanners/2.3.0/guice-bean-scanners-2.3.0-sources.jar
+2013-05-08 17:02:49,998 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:50,357 [New I/O client worker #182-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-converters/2.3.0/guice-bean-converters-2.3.0-sources.jar
+2013-05-08 17:02:50,359 [New I/O client worker #182-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-converters/2.3.0/guice-bean-converters-2.3.0-sources.jar
+2013-05-08 17:02:50,714 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:51,052 [New I/O client worker #183-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-metadata/2.3.0/guice-plexus-metadata-2.3.0-sources.jar
+2013-05-08 17:02:51,218 [New I/O client worker #183-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-metadata/2.3.0/guice-plexus-metadata-2.3.0-sources.jar
+2013-05-08 17:02:51,809 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:52,159 [New I/O client worker #184-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-converters/2.3.0/guice-plexus-converters-2.3.0-sources.jar
+2013-05-08 17:02:52,161 [New I/O client worker #184-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-converters/2.3.0/guice-plexus-converters-2.3.0-sources.jar
+2013-05-08 17:02:52,560 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:53,070 [New I/O client worker #185-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-locators/2.3.0/guice-plexus-locators-2.3.0-sources.jar
+2013-05-08 17:02:53,073 [New I/O client worker #185-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-locators/2.3.0/guice-plexus-locators-2.3.0-sources.jar
+2013-05-08 17:02:53,414 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:53,759 [New I/O client worker #186-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-binders/2.3.0/guice-plexus-binders-2.3.0-sources.jar
+2013-05-08 17:02:53,925 [New I/O client worker #186-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-binders/2.3.0/guice-plexus-binders-2.3.0-sources.jar
+2013-05-08 17:02:54,304 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:54,807 [New I/O client worker #187-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-inject/2.3.0/guice-bean-inject-2.3.0-sources.jar
+2013-05-08 17:02:54,808 [New I/O client worker #187-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-inject/2.3.0/guice-bean-inject-2.3.0-sources.jar
+2013-05-08 17:02:55,173 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:55,526 [New I/O client worker #188-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-scanners/2.3.0/guice-plexus-scanners-2.3.0-sources.jar
+2013-05-08 17:02:55,694 [New I/O client worker #188-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-scanners/2.3.0/guice-plexus-scanners-2.3.0-sources.jar
+2013-05-08 17:02:56,036 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:56,386 [New I/O client worker #189-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-lifecycles/2.3.0/guice-plexus-lifecycles-2.3.0-sources.jar
+2013-05-08 17:02:56,757 [New I/O client worker #189-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-lifecycles/2.3.0/guice-plexus-lifecycles-2.3.0-sources.jar
+2013-05-08 17:02:57,107 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:02:57,451 [New I/O client worker #190-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1-sources.jar
+2013-05-08 17:03:00,015 [New I/O client worker #190-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1-sources.jar
+2013-05-08 17:03:00,378 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:03:00,722 [New I/O client worker #191-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-connector-wagon/1.13.1/aether-connector-wagon-1.13.1-sources.jar
+2013-05-08 17:03:00,894 [New I/O client worker #191-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-connector-wagon/1.13.1/aether-connector-wagon-1.13.1-sources.jar
+2013-05-08 17:03:01,228 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:03:01,567 [New I/O client worker #192-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.13.1/aether-spi-1.13.1-sources.jar
+2013-05-08 17:03:01,735 [New I/O client worker #192-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.13.1/aether-spi-1.13.1-sources.jar
+2013-05-08 17:03:02,223 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:03:02,574 [New I/O client worker #193-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.13.1/aether-impl-1.13.1-sources.jar
+2013-05-08 17:03:03,095 [New I/O client worker #193-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.13.1/aether-impl-1.13.1-sources.jar
+2013-05-08 17:03:03,483 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:03:03,822 [New I/O client worker #194-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-connector-asynchttpclient/1.13.1/aether-connector-asynchttpclient-1.13.1-sources.jar
+2013-05-08 17:03:04,005 [New I/O client worker #194-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-connector-asynchttpclient/1.13.1/aether-connector-asynchttpclient-1.13.1-sources.jar
+2013-05-08 17:03:04,357 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:03:05,883 [New I/O client worker #195-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/maven/wagon-ahc/1.2.1/wagon-ahc-1.2.1-sources.jar
+2013-05-08 17:03:06,047 [New I/O client worker #195-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/maven/wagon-ahc/1.2.1/wagon-ahc-1.2.1-sources.jar
+2013-05-08 17:03:06,384 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:03:06,728 [New I/O client worker #196-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.2/wagon-file-2.2-sources.jar
+2013-05-08 17:03:06,893 [New I/O client worker #196-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.2/wagon-file-2.2-sources.jar
+2013-05-08 17:03:07,254 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:03:07,742 [New I/O client worker #197-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/ning/async-http-client/1.6.5/async-http-client-1.6.5-sources.jar
+2013-05-08 17:03:08,655 [New I/O client worker #197-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/ning/async-http-client/1.6.5/async-http-client-1.6.5-sources.jar
+2013-05-08 17:03:09,035 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-08 17:03:09,378 [New I/O client worker #198-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar
+2013-05-08 17:03:11,837 [New I/O client worker #198-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar
+2013-05-08 17:04:19,834 [Worker-225] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock
+2013-05-08 17:04:19,835 [Worker-225] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2013-05-08 17:13:03,677 [Worker-231] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.actionbarsherlock:actionbarsherlock-i18n:4.3.1 @ C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c\actionbarsherlock-i18n\pom.xml.
+2013-05-08 17:13:04,439 [Worker-231] ERROR o.e.m.c.i.p.r.ProjectRegistryRefreshJob - Resource '/actionbarsherlock-i18n/pom.xml' does not exist.
+org.eclipse.core.internal.resources.ResourceException: Resource '/actionbarsherlock-i18n/pom.xml' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:320) ~[na:na]
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:194) ~[na:na]
+	at org.eclipse.core.internal.resources.Resource.deleteMarkers(Resource.java:820) ~[na:na]
+	at org.eclipse.m2e.core.internal.markers.MavenMarkerManager.deleteMarkers(MavenMarkerManager.java:231) ~[na:na]
+	at org.eclipse.m2e.core.internal.markers.MavenMarkerManager.deleteMarkers(MavenMarkerManager.java:226) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.setupLifecycleMapping(ProjectRegistryManager.java:540) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:444) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:326) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:88) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.5.100.v20110404.jar:na]

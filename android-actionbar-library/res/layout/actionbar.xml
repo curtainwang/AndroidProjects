@@ -49,7 +49,6 @@
             android:visibility="gone" >
 
             <!-- TODO: Make configurable. -->
-
             <ImageButton
                 android:id="@+id/actionbar_home_btn"
                 style="@style/ActionBarHomeItem"
