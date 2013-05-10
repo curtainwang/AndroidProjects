@@ -1,6 +1,7 @@
 package com.android.actionbar.googlenative;
 
-import com.android.actionbaroptimize.R;
+
+import com.android.actionbar.R;
 
 import android.app.Activity;
 import android.os.Bundle;

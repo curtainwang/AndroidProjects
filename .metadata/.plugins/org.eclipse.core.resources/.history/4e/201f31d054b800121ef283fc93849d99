@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">ActionBarOptimize</string>
+    <string name="actionbar">ActionBar Show</string>
+    
+    <string name="NativeActionBar">Native</string>
+    <string name="Imple1Title">ActionBar Implement 1</string>
+    
+    
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="info">This is An Application!\n.</string>
+
+</resources>

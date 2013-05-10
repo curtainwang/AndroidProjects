@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="42" version="2.0">
+<workbench progressCount="23" version="2.0">
 <workbenchAdvisor/>
-<window height="768" maximized="true" width="1024" x="90" y="84">
+<window height="768" maximized="true" width="1024" x="60" y="76">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -12,460 +12,38 @@
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="adt.actionSet.avdManager" itemType="typeToolBarContribution" x="61" y="22"/>
 <coolItem id="adt.actionSet.lint" itemType="typeToolBarContribution" x="63" y="22"/>
-<coolItem id="adt.actionSet.wizards" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="adt.actionSet.wizards" itemType="typeToolBarContribution" x="84" y="22"/>
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="159" y="22"/>
 <coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="86" y="22"/>
-<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="132" y="22"/>
-<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="130" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="109" y="22"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="230" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.cdt.make.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.jdt.ui.PropertiesFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="com.android.ide.eclipse.editors.CommonXmlEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
-<page aggregateWorkingSetId="Aggregate for window 1365478447958" focus="true" label="Workspace - Java">
+<page aggregateWorkingSetId="Aggregate for window 1368170163170" focus="true" label="Workspace - Java">
 <editors>
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
-<part id="9"/>
-<part id="10"/>
-<part id="11"/>
-<part id="12"/>
-<part id="13"/>
-<part id="14"/>
-<part id="15"/>
-<part id="16"/>
-<part id="17"/>
-<part id="18"/>
-<part id="19"/>
-<part id="20"/>
-<part id="21"/>
-<part id="22"/>
-<part id="23"/>
-<part id="24"/>
-<part id="25"/>
-<part id="26"/>
-<part id="27"/>
-<part id="28"/>
-<part id="29"/>
-<part id="30"/>
-<part id="31"/>
-<part id="32"/>
-<part id="33"/>
-<part id="34"/>
-<part id="35"/>
-<part id="36"/>
-<part id="37"/>
-<part id="38"/>
-<part id="39"/>
-<part id="40"/>
-<part id="41"/>
-<part id="42"/>
-<part id="43"/>
-<part id="44"/>
-<part id="45"/>
-<part id="46"/>
-<part id="47"/>
-<part id="48"/>
-<part id="49"/>
-<part id="50"/>
-<part id="51"/>
-<part id="52"/>
-<part id="53"/>
-<part id="54"/>
-<part id="55"/>
-<part id="56"/>
-<part id="57"/>
-<part id="58"/>
-<part id="59"/>
-<part id="60"/>
-<part id="61"/>
-<part id="62"/>
-<part id="63"/>
-<part id="64"/>
-<part id="65"/>
-<part id="66"/>
-<part id="67"/>
-<part id="68"/>
-<part id="69"/>
-<part id="70"/>
-<part id="71"/>
-<part id="72"/>
-<part id="73"/>
-<part id="74"/>
-<part id="75"/>
-<part id="76"/>
-<part id="77"/>
-<part id="78"/>
-<part id="79"/>
-<part id="80"/>
-<part id="81"/>
-<part id="82"/>
-<part id="83"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 </editorArea>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="GameEngine Manifest" path="Z:/work/code/android/AndroidProjects/GameEngine/AndroidManifest.xml" title="GameEngine Manifest" tooltip="GameEngine/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GameEngine/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GameActivity.java" partName="GameActivity.java" path="Z:/work/code/android/AndroidProjects/GameEngine/src/com/longluo/GameEngine/GameActivity.java" title="GameActivity.java" tooltip="GameEngine/src/com/longluo/GameEngine/GameActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GameEngine/src/com/longluo/GameEngine/GameActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="33" selectionTopPixel="1320"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlScriptParser.java" partName="XmlScriptParser.java" path="Z:/work/code/android/AndroidProjects/GameEngine/src/com/longluo/GameEngine/Script/XmlScriptParser.java" title="XmlScriptParser.java" tooltip="GameEngine/src/com/longluo/GameEngine/Script/XmlScriptParser.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GameEngine/src/com/longluo/GameEngine/Script/XmlScriptParser.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="13905" selectionTopPixel="9380"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleLayer.java" partName="SimpleLayer.java" path="Z:/work/code/android/AndroidProjects/GameEngine/src/com/longluo/GameEngine/Screen/SimpleLayer.java" title="SimpleLayer.java" tooltip="GameEngine/src/com/longluo/GameEngine/Screen/SimpleLayer.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GameEngine/src/com/longluo/GameEngine/Screen/SimpleLayer.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="803" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConstData.java" partName="ConstData.java" path="Z:/work/code/android/AndroidProjects/Weather/src/com/longluo/weather/ConstData.java" title="ConstData.java" tooltip="Weather/src/com/longluo/weather/ConstData.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Weather/src/com/longluo/weather/ConstData.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="573" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Weather.java" partName="Weather.java" path="Z:/work/code/android/AndroidProjects/Weather/src/com/longluo/weather/Weather.java" title="Weather.java" tooltip="Weather/src/com/longluo/weather/Weather.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Weather/src/com/longluo/weather/Weather.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="783" selectionTopPixel="834"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" partName="strings.xml" path="Z:/work/code/android/AndroidProjects/Weather/res/values/strings.xml" title="strings.xml" tooltip="Weather/res/values/strings.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Weather/res/values/strings.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" partName="main.xml" path="Z:/work/code/android/AndroidProjects/Weather/res/layout/main.xml" title="main.xml" tooltip="Weather/res/layout/main.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Weather/res/layout/main.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="WeatherLocationService Manifest" path="Z:/work/code/android/AndroidProjects/WeatherLocationService/AndroidManifest.xml" title="WeatherLocationService Manifest" tooltip="WeatherLocationService/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WeatherLocationService/AndroidManifest.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" partName="main.xml" path="Z:/work/code/android/AndroidProjects/WeatherLocationService/res/layout/main.xml" title="main.xml" tooltip="WeatherLocationService/res/layout/main.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WeatherLocationService/res/layout/main.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="arrays.xml" partName="arrays.xml" path="Z:/work/code/android/AndroidProjects/WeatherLocationService/res/values/arrays.xml" title="arrays.xml" tooltip="WeatherLocationService/res/values/arrays.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WeatherLocationService/res/values/arrays.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="styles.xml" partName="styles.xml" path="Z:/work/code/android/AndroidProjects/WeatherLocationService/res/values/styles.xml" title="styles.xml" tooltip="WeatherLocationService/res/values/styles.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WeatherLocationService/res/values/styles.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" partName="strings.xml" path="Z:/work/code/android/AndroidProjects/WeatherLocationService/res/values/strings.xml" title="strings.xml" tooltip="WeatherLocationService/res/values/strings.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WeatherLocationService/res/values/strings.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LocationGetter.java" partName="LocationGetter.java" path="Z:/work/code/android/AndroidProjects/WeatherLocationService/src/com/weather/locationservice/LocationGetter.java" title="LocationGetter.java" tooltip="WeatherLocationService/src/com/weather/locationservice/LocationGetter.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WeatherLocationService/src/com/weather/locationservice/LocationGetter.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2451" selectionTopPixel="1800"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GetLocationService.java" partName="GetLocationService.java" path="Z:/work/code/android/AndroidProjects/WeatherLocationService/src/com/weather/locationservice/GetLocationService.java" title="GetLocationService.java" tooltip="WeatherLocationService/src/com/weather/locationservice/GetLocationService.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WeatherLocationService/src/com/weather/locationservice/GetLocationService.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3287" selectionTopPixel="2357"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MainActivity.java" partName="MainActivity.java" path="Z:/work/code/android/AndroidProjects/WeatherLocationService/src/com/weather/app/MainActivity.java" title="MainActivity.java" tooltip="WeatherLocationService/src/com/weather/app/MainActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WeatherLocationService/src/com/weather/app/MainActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="107" selectionTopPixel="0"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="GDCatalog Manifest" path="Z:/work/code/android/AndroidProjects/GDCatalog/AndroidManifest.xml" title="GDCatalog Manifest" tooltip="GDCatalog/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GDCatalog/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WhileLoop.java" partName="WhileLoop.java" path="Z:/work/code/android/AndroidProjects/WhileLoop/src/com/longluo/whileloop/WhileLoop.java" title="WhileLoop.java" tooltip="WhileLoop/src/com/longluo/whileloop/WhileLoop.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WhileLoop/src/com/longluo/whileloop/WhileLoop.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="689" selectionTopPixel="0"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="AndroidBinderServiceDemo Manifest" path="Z:/work/code/android/AndroidProjects/AndroidBinderServiceDemo/AndroidManifest.xml" title="AndroidBinderServiceDemo Manifest" tooltip="AndroidBinderServiceDemo/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AndroidBinderServiceDemo/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MainActivity.java" partName="MainActivity.java" path="Z:/work/code/android/AndroidProjects/AndroidBinderServiceDemo/src/com/android/binderservicedemo/MainActivity.java" title="MainActivity.java" tooltip="AndroidBinderServiceDemo/src/com/android/binderservicedemo/MainActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AndroidBinderServiceDemo/src/com/android/binderservicedemo/MainActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="227" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LocalService.java" partName="LocalService.java" path="Z:/work/code/android/AndroidProjects/AndroidBinderServiceDemo/src/com/android/binderservicedemo/LocalService.java" title="LocalService.java" tooltip="AndroidBinderServiceDemo/src/com/android/binderservicedemo/LocalService.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AndroidBinderServiceDemo/src/com/android/binderservicedemo/LocalService.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1152" selectionTopPixel="567"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LocalServiceConnection.java" partName="LocalServiceConnection.java" path="Z:/work/code/android/AndroidProjects/AndroidBinderServiceDemo/src/com/android/binderservicedemo/LocalServiceConnection.java" title="LocalServiceConnection.java" tooltip="AndroidBinderServiceDemo/src/com/android/binderservicedemo/LocalServiceConnection.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AndroidBinderServiceDemo/src/com/android/binderservicedemo/LocalServiceConnection.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="40" selectionTopPixel="0"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="google-play-services_lib Manifest" path="Z:/work/code/android/AndroidProjects/google-play-services_lib/AndroidManifest.xml" title="google-play-services_lib Manifest" tooltip="google-play-services_lib/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/google-play-services_lib/AndroidManifest.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="DefaultActivity Manifest" path="Z:/work/code/android/AndroidProjects/DefaultActivity/AndroidManifest.xml" title="DefaultActivity Manifest" tooltip="DefaultActivity/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DefaultActivity/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClubCP.java" partName="ClubCP.java" path="Z:/work/code/android/AndroidProjects/DefaultActivity/src/com/wordpress/enjoyandroid/viewbinder/ClubCP.java" title="ClubCP.java" tooltip="DefaultActivity/src/com/wordpress/enjoyandroid/viewbinder/ClubCP.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DefaultActivity/src/com/wordpress/enjoyandroid/viewbinder/ClubCP.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="1218"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InitialClubs.java" partName="InitialClubs.java" path="Z:/work/code/android/AndroidProjects/DefaultActivity/src/com/wordpress/enjoyandroid/viewbinder/InitialClubs.java" title="InitialClubs.java" tooltip="DefaultActivity/src/com/wordpress/enjoyandroid/viewbinder/InitialClubs.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DefaultActivity/src/com/wordpress/enjoyandroid/viewbinder/InitialClubs.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="2667"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DefaultActivity.java" partName="DefaultActivity.java" path="Z:/work/code/android/AndroidProjects/DefaultActivity/src/com/wordpress/enjoyandroid/viewbinder/DefaultActivity.java" title="DefaultActivity.java" tooltip="DefaultActivity/src/com/wordpress/enjoyandroid/viewbinder/DefaultActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DefaultActivity/src/com/wordpress/enjoyandroid/viewbinder/DefaultActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="506" selectionTopPixel="1107"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DBHelper.java" partName="DBHelper.java" path="Z:/work/code/android/AndroidProjects/DefaultActivity/src/com/wordpress/enjoyandroid/viewbinder/DBHelper.java" title="DBHelper.java" tooltip="DefaultActivity/src/com/wordpress/enjoyandroid/viewbinder/DBHelper.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DefaultActivity/src/com/wordpress/enjoyandroid/viewbinder/DBHelper.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="507"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="README" partName="README" path="Z:/work/code/android/AndroidProjects/DefaultActivity/README" title="README" tooltip="DefaultActivity/README" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DefaultActivity/README"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="151" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="README.md" partName="README.md" path="Z:/work/code/android/AndroidProjects/DummyActivity/README.md" title="README.md" tooltip="DummyActivity/README.md" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DummyActivity/README.md"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="27"/>
-</editor>
-<editor id="org.eclipse.cdt.make.editor" name="Android.mk" partName="Android.mk" path="Z:/work/code/android/AndroidProjects/MultiProcessTest/Android.mk" title="Android.mk" tooltip="MultiProcessTest/Android.mk" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MultiProcessTest/Android.mk"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="MultiProcessTest Manifest" path="Z:/work/code/android/AndroidProjects/MultiProcessTest/AndroidManifest.xml" title="MultiProcessTest Manifest" tooltip="MultiProcessTest/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MultiProcessTest/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" partName="Main.java" path="Z:/work/code/android/AndroidProjects/MultiProcessTest/src/com/myq/android/MultiProcessTest/Main.java" title="Main.java" tooltip="MultiProcessTest/src/com/myq/android/MultiProcessTest/Main.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MultiProcessTest/src/com/myq/android/MultiProcessTest/Main.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="749" selectionTopPixel="240"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="demo.java" partName="demo.java" path="Z:/work/code/android/AndroidProjects/MultiProcessTest/src/com/myq/android/MultiProcessTest/demo.java" title="demo.java" tooltip="MultiProcessTest/src/com/myq/android/MultiProcessTest/demo.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MultiProcessTest/src/com/myq/android/MultiProcessTest/demo.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="734" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DateTimeService.java" partName="DateTimeService.java" path="Z:/work/code/android/AndroidProjects/MultiProcessTest/src/com/myq/android/MultiProcessTest/DateTimeService.java" title="DateTimeService.java" tooltip="MultiProcessTest/src/com/myq/android/MultiProcessTest/DateTimeService.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MultiProcessTest/src/com/myq/android/MultiProcessTest/DateTimeService.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="970" selectionTopPixel="0"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="MultiProcessTestClient Manifest" path="Z:/work/code/android/AndroidProjects/MultiProcessTestClient/AndroidManifest.xml" title="MultiProcessTestClient Manifest" tooltip="MultiProcessTestClient/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MultiProcessTestClient/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.PropertiesFileEditor" name="project.properties" partName="project.properties" path="Z:/work/code/android/AndroidProjects/MultiProcessTestClient/project.properties" title="project.properties" tooltip="MultiProcessTestClient/project.properties" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MultiProcessTestClient/project.properties"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="561" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="IDateTimeService.aidl" partName="IDateTimeService.aidl" path="Z:/work/code/android/AndroidProjects/MultiProcessTestClient/src/com/myq/android/MultiProcessTest/IDateTimeService.aidl" title="IDateTimeService.aidl" tooltip="MultiProcessTestClient/src/com/myq/android/MultiProcessTest/IDateTimeService.aidl" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MultiProcessTestClient/src/com/myq/android/MultiProcessTest/IDateTimeService.aidl"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="121" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" partName="Main.java" path="Z:/work/code/android/AndroidProjects/MultiProcessTestClient/src/com/myq/android/MultiProcessTest/Client/Main.java" title="Main.java" tooltip="MultiProcessTestClient/src/com/myq/android/MultiProcessTest/Client/Main.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MultiProcessTestClient/src/com/myq/android/MultiProcessTest/Client/Main.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="867" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyViewGroup.java" partName="MyViewGroup.java" path="Z:/work/code/android/AndroidProjects/AndroidViewDemo/src/com/android/viewdemo/MyViewGroup.java" title="MyViewGroup.java" tooltip="AndroidViewDemo/src/com/android/viewdemo/MyViewGroup.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AndroidViewDemo/src/com/android/viewdemo/MyViewGroup.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="399" selectionTopPixel="461"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ViewDemoActivity.java" partName="ViewDemoActivity.java" path="Z:/work/code/android/AndroidProjects/AndroidViewDemo/src/com/android/viewdemo/ViewDemoActivity.java" title="ViewDemoActivity.java" tooltip="AndroidViewDemo/src/com/android/viewdemo/ViewDemoActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AndroidViewDemo/src/com/android/viewdemo/ViewDemoActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="501" selectionTopPixel="1081"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="AndroidViewDemo Manifest" path="Z:/work/code/android/AndroidProjects/AndroidViewDemo/AndroidManifest.xml" title="AndroidViewDemo Manifest" tooltip="AndroidViewDemo/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AndroidViewDemo/AndroidManifest.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="MyFileManager Manifest" path="Z:/work/code/android/AndroidProjects/MyFileManager/AndroidManifest.xml" title="MyFileManager Manifest" tooltip="MyFileManager/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MyFileManager/AndroidManifest.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" partName="main.xml" path="Z:/work/code/android/AndroidProjects/AndroidViewDemo/res/layout/main.xml" title="main.xml" tooltip="AndroidViewDemo/res/layout/main.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AndroidViewDemo/res/layout/main.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="viewgroup.xml" partName="viewgroup.xml" path="Z:/work/code/android/AndroidProjects/AndroidViewDemo/res/layout/viewgroup.xml" title="viewgroup.xml" tooltip="AndroidViewDemo/res/layout/viewgroup.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/AndroidViewDemo/res/layout/viewgroup.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" partName="strings.xml" path="Z:/work/code/android/AndroidProjects/MultiProcessTest/res/values/strings.xml" title="strings.xml" tooltip="MultiProcessTest/res/values/strings.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MultiProcessTest/res/values/strings.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="oschina-android-app Manifest" path="Z:/work/code/android/AndroidProjects/oschina-android-app/AndroidManifest.xml" title="oschina-android-app Manifest" tooltip="oschina-android-app/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/oschina-android-app/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AppStart.java" partName="AppStart.java" path="Z:/work/code/android/AndroidProjects/oschina-android-app/src/net/oschina/app/AppStart.java" title="AppStart.java" tooltip="oschina-android-app/src/net/oschina/app/AppStart.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/oschina-android-app/src/net/oschina/app/AppStart.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1397" selectionTopPixel="961"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AppConfig.java" partName="AppConfig.java" path="Z:/work/code/android/AndroidProjects/oschina-android-app/src/net/oschina/app/AppConfig.java" title="AppConfig.java" tooltip="oschina-android-app/src/net/oschina/app/AppConfig.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/oschina-android-app/src/net/oschina/app/AppConfig.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="478" selectionTopPixel="240"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AppManager.java" partName="AppManager.java" path="Z:/work/code/android/AndroidProjects/oschina-android-app/src/net/oschina/app/AppManager.java" title="AppManager.java" tooltip="oschina-android-app/src/net/oschina/app/AppManager.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/oschina-android-app/src/net/oschina/app/AppManager.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="251" selectionTopPixel="1741"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AppException.java" partName="AppException.java" path="Z:/work/code/android/AndroidProjects/oschina-android-app/src/net/oschina/app/AppException.java" title="AppException.java" tooltip="oschina-android-app/src/net/oschina/app/AppException.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/oschina-android-app/src/net/oschina/app/AppException.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="6842" selectionOffset="0" selectionTopPixel="4080"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AppContext.java" partName="AppContext.java" path="Z:/work/code/android/AndroidProjects/oschina-android-app/src/net/oschina/app/AppContext.java" title="AppContext.java" tooltip="oschina-android-app/src/net/oschina/app/AppContext.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/oschina-android-app/src/net/oschina/app/AppContext.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3170" selectionTopPixel="580"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QuickAction.java" partName="QuickAction.java" path="Z:/work/code/android/AndroidProjects/oschina-android-app/src/greendroid/widget/QuickAction.java" title="QuickAction.java" tooltip="oschina-android-app/src/greendroid/widget/QuickAction.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/oschina-android-app/src/greendroid/widget/QuickAction.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1007" selectionTopPixel="600"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ActionBarActivity.java" partName="ActionBarActivity.java" path="Z:/work/code/android/AndroidProjects/GDCatalog/src/com/cyrilmottier/android/gdcatalog/ActionBarActivity.java" title="ActionBarActivity.java" tooltip="GDCatalog/src/com/cyrilmottier/android/gdcatalog/ActionBarActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GDCatalog/src/com/cyrilmottier/android/gdcatalog/ActionBarActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="2755" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AboutActivity.java" partName="AboutActivity.java" path="Z:/work/code/android/AndroidProjects/GDCatalog/src/com/cyrilmottier/android/gdcatalog/AboutActivity.java" title="AboutActivity.java" tooltip="GDCatalog/src/com/cyrilmottier/android/gdcatalog/AboutActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GDCatalog/src/com/cyrilmottier/android/gdcatalog/AboutActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="880" selectionTopPixel="0"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="BinderServer Manifest" path="Z:/work/code/android/AndroidProjects/BinderServer/AndroidManifest.xml" title="BinderServer Manifest" tooltip="BinderServer/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderServer/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ServerService.java" partName="ServerService.java" path="Z:/work/code/android/AndroidProjects/BinderServer/src/com/binderserver/ServerService.java" title="ServerService.java" tooltip="BinderServer/src/com/binderserver/ServerService.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderServer/src/com/binderserver/ServerService.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="312" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Fruit.java" partName="Fruit.java" path="Z:/work/code/android/AndroidProjects/BinderServer/src/com/binderserver/Fruit.java" title="Fruit.java" tooltip="BinderServer/src/com/binderserver/Fruit.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderServer/src/com/binderserver/Fruit.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="231" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinderServerActivity.java" partName="BinderServerActivity.java" path="Z:/work/code/android/AndroidProjects/BinderServer/src/com/binderserver/BinderServerActivity.java" title="BinderServerActivity.java" tooltip="BinderServer/src/com/binderserver/BinderServerActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderServer/src/com/binderserver/BinderServerActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="135" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="Fruit.aidl" partName="Fruit.aidl" path="Z:/work/code/android/AndroidProjects/BinderServer/src/com/binderserver/Fruit.aidl" title="Fruit.aidl" tooltip="BinderServer/src/com/binderserver/Fruit.aidl" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderServer/src/com/binderserver/Fruit.aidl"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="17" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="IAidlBinder.aidl" partName="IAidlBinder.aidl" path="Z:/work/code/android/AndroidProjects/BinderServer/src/com/binderserver/IAidlBinder.aidl" title="IAidlBinder.aidl" tooltip="BinderServer/src/com/binderserver/IAidlBinder.aidl" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderServer/src/com/binderserver/IAidlBinder.aidl"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="128" selectionTopPixel="0"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" partName="main.xml" path="Z:/work/code/android/AndroidProjects/BinderServer/res/layout/main.xml" title="main.xml" tooltip="BinderServer/res/layout/main.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderServer/res/layout/main.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IAidlBinder.java" partName="IAidlBinder.java" path="Z:/work/code/android/AndroidProjects/BinderServer/gen/com/binderserver/IAidlBinder.java" title="IAidlBinder.java" tooltip="BinderServer/gen/com/binderserver/IAidlBinder.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderServer/gen/com/binderserver/IAidlBinder.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="7" selectionOffset="1617" selectionTopPixel="960"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinderClientActivity.java" partName="BinderClientActivity.java" path="Z:/work/code/android/AndroidProjects/BinderClient/src/com/binderclient/BinderClientActivity.java" title="BinderClientActivity.java" tooltip="BinderClient/src/com/binderclient/BinderClientActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClient/src/com/binderclient/BinderClientActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="1630" selectionTopPixel="1021"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" partName="main.xml" path="Z:/work/code/android/AndroidProjects/BinderClient/res/layout/main.xml" title="main.xml" tooltip="BinderClient/res/layout/main.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClient/res/layout/main.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" partName="strings.xml" path="Z:/work/code/android/AndroidProjects/BinderClient/res/values/strings.xml" title="strings.xml" tooltip="BinderClient/res/values/strings.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClient/res/values/strings.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="BinderClient Manifest" path="Z:/work/code/android/AndroidProjects/BinderClient/AndroidManifest.xml" title="BinderClient Manifest" tooltip="BinderClient/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClient/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="Fruit.aidl" partName="Fruit.aidl" path="Z:/work/code/android/AndroidProjects/BinderClient/src/com/binderserver/Fruit.aidl" title="Fruit.aidl" tooltip="BinderClient/src/com/binderserver/Fruit.aidl" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClient/src/com/binderserver/Fruit.aidl"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="10" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="IAidlBinder.aidl" partName="IAidlBinder.aidl" path="Z:/work/code/android/AndroidProjects/BinderClient/src/com/binderserver/IAidlBinder.aidl" title="IAidlBinder.aidl" tooltip="BinderClient/src/com/binderserver/IAidlBinder.aidl" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClient/src/com/binderserver/IAidlBinder.aidl"/>
-<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="114" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IAidlBinder.java" partName="IAidlBinder.java" path="Z:/work/code/android/AndroidProjects/BinderClient/gen/com/binderserver/IAidlBinder.java" title="IAidlBinder.java" tooltip="BinderClient/gen/com/binderserver/IAidlBinder.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClient/gen/com/binderserver/IAidlBinder.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1822" selectionTopPixel="960"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ServerService.java" partName="ServerService.java" path="Z:/work/code/android/AndroidProjects/BinderClient/src/com/binderserver/ServerService.java" title="ServerService.java" tooltip="BinderClient/src/com/binderserver/ServerService.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClient/src/com/binderserver/ServerService.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="781" selectionTopPixel="521"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloServiceActivity.java" partName="HelloServiceActivity.java" path="Z:/work/code/android/AndroidProjects/helloService/src/android/hello/service/HelloServiceActivity.java" title="HelloServiceActivity.java" tooltip="helloService/src/android/hello/service/HelloServiceActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/helloService/src/android/hello/service/HelloServiceActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="353" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Binder_testActivity.java" partName="Binder_testActivity.java" path="Z:/work/code/android/AndroidProjects/BinderClientDemo/src/android/client/Binder_testActivity.java" title="Binder_testActivity.java" tooltip="BinderClientDemo/src/android/client/Binder_testActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClientDemo/src/android/client/Binder_testActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1081" selectionTopPixel="61"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="helloService Manifest" path="Z:/work/code/android/AndroidProjects/helloService/AndroidManifest.xml" title="helloService Manifest" tooltip="helloService/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/helloService/AndroidManifest.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="BinderClientDemo Manifest" path="Z:/work/code/android/AndroidProjects/BinderClientDemo/AndroidManifest.xml" title="BinderClientDemo Manifest" tooltip="BinderClientDemo/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClientDemo/AndroidManifest.xml"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="IHelloService.aidl" partName="IHelloService.aidl" path="Z:/work/code/android/AndroidProjects/BinderClientDemo/src/android/hello/service/IHelloService.aidl" title="IHelloService.aidl" tooltip="BinderClientDemo/src/android/hello/service/IHelloService.aidl" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClientDemo/src/android/hello/service/IHelloService.aidl"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="117" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloService.java" partName="HelloService.java" path="Z:/work/code/android/AndroidProjects/helloService/src/android/hello/service/HelloService.java" title="HelloService.java" tooltip="helloService/src/android/hello/service/HelloService.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/helloService/src/android/hello/service/HelloService.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="268" selectionTopPixel="281"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="IHelloService.aidl" partName="IHelloService.aidl" path="Z:/work/code/android/AndroidProjects/helloService/src/android/hello/service/IHelloService.aidl" title="IHelloService.aidl" tooltip="helloService/src/android/hello/service/IHelloService.aidl" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/helloService/src/android/hello/service/IHelloService.aidl"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" partName="main.xml" path="Z:/work/code/android/AndroidProjects/helloService/res/layout/main.xml" title="main.xml" tooltip="helloService/res/layout/main.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/helloService/res/layout/main.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IHelloService.java" partName="IHelloService.java" path="Z:/work/code/android/AndroidProjects/BinderClientDemo/gen/android/hello/service/IHelloService.java" title="IHelloService.java" tooltip="BinderClientDemo/gen/android/hello/service/IHelloService.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClientDemo/gen/android/hello/service/IHelloService.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="625" selectionTopPixel="2001"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BuildConfig.java" partName="BuildConfig.java" path="Z:/work/code/android/AndroidProjects/BinderClientDemo/gen/android/client/BuildConfig.java" title="BuildConfig.java" tooltip="BinderClientDemo/gen/android/client/BuildConfig.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClientDemo/gen/android/client/BuildConfig.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="R.java" partName="R.java" path="Z:/work/code/android/AndroidProjects/BinderClientDemo/gen/android/client/R.java" title="R.java" tooltip="BinderClientDemo/gen/android/client/R.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BinderClientDemo/gen/android/client/R.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HomeActivity.java" partName="HomeActivity.java" path="Z:/work/code/android/AndroidProjects/android-actionbar-example/src/com/markupartist/android/actionbar/example/HomeActivity.java" title="HomeActivity.java" tooltip="android-actionbar-example/src/com/markupartist/android/actionbar/example/HomeActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/android-actionbar-example/src/com/markupartist/android/actionbar/example/HomeActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="120"/>
-</editor>
-<editor activePart="true" focus="true" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" partName="main.xml" path="Z:/work/code/android/AndroidProjects/android-actionbar-example/res/layout/main.xml" title="main.xml" tooltip="android-actionbar-example/res/layout/main.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/android-actionbar-example/res/layout/main.xml"/>
-</editor>
 </editors>
 <views>
-<view id="com.android.ide.eclipse.ddms.views.DeviceView" partName="Devices">
-<viewState/>
-</view>
-<view id="com.android.ide.eclipse.ddms.views.ThreadView" partName="Threads">
-<viewState/>
-</view>
-<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
-<viewState/>
-</view>
-<view id="com.android.ide.eclipse.ddms.views.HeapView" partName="Heap">
-<viewState/>
-</view>
-<view id="com.android.ide.eclipse.ddms.views.LogCatView" partName="LogCat">
-<viewState/>
-</view>
-<view id="com.android.ide.eclipse.ddms.views.FileExplorerView" partName="File Explorer"/>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
-<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.resourceField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Errors"/>
-</expanded>
-<columnWidths org.eclipse.ui.ide.locationField="135" org.eclipse.ui.ide.markerType="415" org.eclipse.ui.ide.pathField="180" org.eclipse.ui.ide.resourceField="332" org.eclipse.ui.ide.severityAndDescriptionField="879"/>
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="135" org.eclipse.ui.ide.markerType="135" org.eclipse.ui.ide.pathField="180" org.eclipse.ui.ide.resourceField="135" org.eclipse.ui.ide.severityAndDescriptionField="450"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
-<DESCENDING_FIELDS IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 </viewState>
-</view>
-<view id="com.android.ide.eclipse.ddms.views.NetworkStatsView" partName="Network Statistics"/>
-<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
-<viewState/>
 </view>
 <view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
 <viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
@@ -490,28 +68,38 @@
 <child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
 <child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
 <child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
-<child filterId="org.eclipse.m2e.MavenModuleFilter" isEnabled="false"/>
 <child filterId="org.eclipse.mylyn.java.ui.MembersFilter" isEnabled="false"/>
+<child filterId="org.eclipse.m2e.MavenModuleFilter" isEnabled="false"/>
 </xmlDefinedFilters>
 </customFilters>
 </viewState>
 </view>
-<view id="com.android.ide.eclipse.ddms.views.SysInfoView" partName="System Information"/>
-<view id="com.android.ide.eclipse.ddms.views.EmulatorControlView" partName="Emulator Control">
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks" partName="Task List">
+<viewState linkWithEditor="true" presentation="org.eclipse.mylyn.tasks.ui.categorized">
+<sorter groupBy="CATEGORY_QUERY">
+<sorter>
+<sort0 sortDirection="1" sortKey="PRIORITY"/>
+<sort1 sortDirection="1" sortKey="RANK"/>
+<sort2 sortDirection="1" sortKey="DATE_CREATED"/>
+<sort3 sortDirection="1" sortKey="NONE"/>
+<sort4 sortDirection="1" sortKey="NONE"/>
+<sort5 sortDirection="1" sortKey="NONE"/>
+<sort6 sortDirection="1" sortKey="NONE"/>
+<sort7 sortDirection="1" sortKey="NONE"/>
+</sorter>
+</sorter>
+<filteredTreeFindHistory/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
 <viewState/>
 </view>
-<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
-<viewState/>
-</view>
-<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc">
-<viewState/>
-</view>
-<view id="com.android.ide.eclipse.ddms.views.AllocTrackerView" partName="Allocation Tracker"/>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="com.android.ide.eclipse.editors.CommonXmlEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
-<alwaysOnActionSet id="org.eclipse.egit.ui.navigation"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
@@ -528,10 +116,6 @@
 <alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
 <alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
 <alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
-<alwaysOnActionSet id="adt.actionSet.wizards"/>
-<alwaysOnActionSet id="adt.actionSet.avdManager"/>
-<alwaysOnActionSet id="adt.actionSet.lint"/>
-<alwaysOnActionSet id="adt.actionSet.refactorings"/>
 <alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
 <alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
 <alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
@@ -565,24 +149,18 @@
 <new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
 <new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
 <new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
-<new_wizard_action id="com.android.ide.eclipse.adt.project.NewProjectWizard"/>
-<new_wizard_action id="com.android.ide.eclipse.editors.wizards.NewXmlFileWizard"/>
 <new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
 <new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
 <perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
 <perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
-<perspective_action id="com.android.ide.eclipse.ddms.Perspective"/>
-<perspective_action id="com.android.ide.eclipse.hierarchyviewer.PixelPerfectPespective"/>
-<perspective_action id="com.android.ide.eclipse.hierarchyviewer.TreeViewPerspective"/>
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
 <view id="org.eclipse.ui.views.ProblemView"/>
 <view id="org.eclipse.jdt.ui.JavadocView"/>
 <view id="org.eclipse.jdt.ui.SourceView"/>
-<view id="org.eclipse.ui.console.ConsoleView"/>
-<view id="com.android.ide.eclipse.ddms.views.LogCatView"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
-<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
 <fastViewBars/>
 <layout>
 <mainWindow>
@@ -600,131 +178,45 @@
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@1af2f973" ratio="0.749499" ratioLeft="748" ratioRight="250" relationship="2" relative="left">
+<info folder="true" part="stickyFolderRight" ratio="0.749499" ratioLeft="748" ratioRight="250" relationship="2" relative="left">
 <folder appearance="2" expanded="2">
 <page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.2183345" ratioLeft="312" ratioRight="1117" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.5261669" ratioLeft="372" ratioRight="335" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<info part="org.eclipse.ui.editorss" ratio="0.249499" ratioLeft="249" ratioRight="749" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.46958983" ratioLeft="332" ratioRight="375" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
 <page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
-<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LogCat"/>
-<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@18ba2b6b" ratio="0.74899864" ratioLeft="561" ratioRight="188" relationship="2" relative="org.eclipse.ui.editorss">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@667262b6" ratio="0.74899864" ratioLeft="561" ratioRight="188" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.mylyn.tasks.ui.views.tasks" appearance="2" expanded="2">
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="Task List"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
 </folder>
 </info>
-<info folder="true" part="right" ratio="0.5" ratioLeft="231" ratioRight="231" relationship="4" relative="org.eclipse.ui.internal.ViewStack@18ba2b6b">
-<folder appearance="2" expanded="2">
+<info folder="true" part="right" ratio="0.5" ratioLeft="231" ratioRight="231" relationship="4" relative="org.eclipse.ui.internal.ViewStack@667262b6">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
 <page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
-</folder>
-</info>
-<info part="org.eclipse.egit.ui.RepositoriesView" ratio="0.59967583" ratioLeft="370" ratioRight="247" relationship="4" relative="left"/>
-</mainWindow>
-</layout>
-</perspective>
-<perspective editorAreaTrimState="2" editorAreaVisible="0" fixed="0" version="0.016">
-<descriptor class="com.android.ide.eclipse.ddms.Perspective" id="com.android.ide.eclipse.ddms.Perspective" label="DDMS"/>
-<alwaysOnActionSet id="org.eclipse.egit.ui.navigation"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
-<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
-<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
-<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
-<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
-<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
-<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
-<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
-<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
-<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
-<show_view_action id="com.android.ide.eclipse.ddms.views.DeviceView"/>
-<show_view_action id="com.android.ide.eclipse.ddms.views.FileExplorerView"/>
-<show_view_action id="com.android.ide.eclipse.ddms.views.HeapView"/>
-<show_view_action id="com.android.ide.eclipse.ddms.views.AllocTrackerView"/>
-<show_view_action id="com.android.ide.eclipse.ddms.views.LogCatView"/>
-<show_view_action id="com.android.ide.eclipse.ddms.views.ThreadView"/>
-<show_view_action id="com.android.ide.eclipse.ddms.views.NetworkStatsView"/>
-<show_view_action id="com.android.ide.eclipse.ddms.views.SysInfoView"/>
-<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
-<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
-<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
-<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
-<show_view_action id="org.eclipse.ui.views.ProblemView"/>
-<show_view_action id="org.eclipse.ui.views.ProgressView"/>
-<show_view_action id="org.eclipse.ui.views.TaskList"/>
-<perspective_action id="org.eclipse.ui.resourcePerspective"/>
-<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
-<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
-<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
-<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
-<view id="com.android.ide.eclipse.ddms.views.DeviceView"/>
-<view id="com.android.ide.eclipse.ddms.views.LogCatView"/>
-<view id="com.android.ide.eclipse.ddms.views.ThreadView"/>
-<view id="com.android.ide.eclipse.ddms.views.HeapView"/>
-<view id="com.android.ide.eclipse.ddms.views.AllocTrackerView"/>
-<view id="com.android.ide.eclipse.ddms.views.NetworkStatsView"/>
-<view id="com.android.ide.eclipse.ddms.views.FileExplorerView"/>
-<view id="com.android.ide.eclipse.ddms.views.EmulatorControlView"/>
-<view id="com.android.ide.eclipse.ddms.views.SysInfoView"/>
-<fastViewBars/>
-<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="devices">&#x0A;<folder activePageID="com.android.ide.eclipse.ddms.views.DeviceView" appearance="2" expanded="2">&#x0A;<page content="com.android.ide.eclipse.ddms.views.DeviceView" label="Devices"/>
-<page content="com.android.ide.eclipse.ddms.views.DeviceView:*" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-</presentation>
-</folder>
-</info>
-<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1074" ratioRight="358" relationship="2" relative="devices">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
-<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
-</folder>
-</info>
-<info folder="true" part="logcat" ratio="0.58557284" ratioLeft="414" ratioRight="293" relationship="4" relative="devices">&#x0A;<folder activePageID="com.android.ide.eclipse.ddms.views.LogCatView" appearance="2" expanded="2">&#x0A;<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LogCat"/>
-<page content="com.android.ide.eclipse.ddms.views.LogCatView:*" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-</presentation>
-</folder>
-</info>
-<info part="org.eclipse.ui.editorss" ratio="0.299581" ratioLeft="429" ratioRight="1003" relationship="2" relative="devices"/>
-<info folder="true" part="ddms-detail" ratio="0.4995015" ratioLeft="501" ratioRight="502" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="com.android.ide.eclipse.ddms.views.EmulatorControlView" appearance="2" expanded="2">&#x0A;<page content="com.android.ide.eclipse.ddms.views.ThreadView" label="Threads"/>
-<page content="com.android.ide.eclipse.ddms.views.HeapView" label="Heap"/>
-<page content="com.android.ide.eclipse.ddms.views.AllocTrackerView" label="Allocation Tracker"/>
-<page content="com.android.ide.eclipse.ddms.views.NetworkStatsView" label="Network Statistics"/>
-<page content="com.android.ide.eclipse.ddms.views.FileExplorerView" label="File Explorer"/>
-<page content="com.android.ide.eclipse.ddms.views.EmulatorControlView" label="Emulator Control"/>
-<page content="com.android.ide.eclipse.ddms.views.SysInfoView" label="System Information"/>
-<page content="com.android.ide.eclipse.ddms.views.ThreadView:*" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 </presentation>
 </folder>
 </info>
@@ -733,179 +225,12 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory>
-<editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BinderClient/src/com/binderserver/ServerService.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/BinderClient/src/com/binderserver/Fruit.aidl"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BinderClient/gen/com/binderserver/IAidlBinder.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BinderServer/gen/com/binderserver/IAidlBinder.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/helloService/src/android/hello/service/HelloServiceActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/AndroidBinderServiceDemo/src/com/android/binderservicedemo/MainActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BinderClientDemo/src/android/client/Binder_testActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/helloService/AndroidManifest.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/BinderClientDemo/AndroidManifest.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/BinderClientDemo/src/android/hello/service/IHelloService.aidl"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/helloService/src/android/hello/service/HelloService.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/helloService/src/android/hello/service/IHelloService.aidl"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/helloService/res/layout/main.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BinderClientDemo/gen/android/hello/service/IHelloService.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BinderClientDemo/gen/android/client/BuildConfig.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BinderClientDemo/gen/android/client/R.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/android-actionbar-example/src/com/markupartist/android/actionbar/example/HomeActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/android-actionbar-example/res/layout/main.xml"/>
-</editors>
-<item historyLabel="IAidlBinder.java" index="2">
-<position info="not_deleted" x="1822" y="0"/>
-</item>
-<item historyLabel="Fruit.aidl" index="1">
-<position info="not_deleted" x="10" y="0"/>
-</item>
-<item historyLabel="IAidlBinder.java" index="3">
-<position info="not_deleted" x="1617" y="7"/>
-</item>
-<item historyLabel="ServerService.java" index="0">
-<position info="not_deleted" x="781" y="0"/>
-</item>
-<item historyLabel="HelloServiceActivity.java" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="MainActivity.java" index="5">
-<position info="not_deleted" x="893" y="0"/>
-</item>
-<item historyLabel="MainActivity.java" index="5">
-<position info="not_deleted" x="227" y="0"/>
-</item>
-<item historyLabel="Binder_testActivity.java" index="6">
-<position info="not_deleted" x="24" y="0"/>
-</item>
-<item historyLabel="helloService Manifest" index="7"/>
-<item historyLabel="BinderClientDemo Manifest" index="8"/>
-<item historyLabel="Binder_testActivity.java" index="6">
-<position info="not_deleted" x="24" y="0"/>
-</item>
-<item historyLabel="IHelloService.aidl" index="9">
-<position info="not_deleted" x="117" y="0"/>
-</item>
-<item historyLabel="Binder_testActivity.java" index="6">
-<position info="not_deleted" x="2053" y="0"/>
-</item>
-<item historyLabel="HelloServiceActivity.java" index="4">
-<position info="not_deleted" x="353" y="0"/>
-</item>
-<item historyLabel="HelloService.java" index="10">
-<position info="not_deleted" x="185" y="0"/>
-</item>
-<item historyLabel="IHelloService.aidl" index="11">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="HelloServiceActivity.java" index="4">
-<position info="not_deleted" x="353" y="0"/>
-</item>
-<item historyLabel="main.xml" index="12"/>
-<item historyLabel="Binder_testActivity.java" index="6">
-<position info="not_deleted" x="771" y="0"/>
-</item>
-<item historyLabel="IHelloService.aidl" index="9">
-<position info="not_deleted" x="117" y="0"/>
-</item>
-<item historyLabel="IHelloService.java" index="13">
-<position info="not_deleted" x="625" y="0"/>
-</item>
-<item historyLabel="BuildConfig.java" index="14">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="R.java" index="15">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Binder_testActivity.java" index="6">
-<position info="not_deleted" x="1545" y="0"/>
-</item>
-<item historyLabel="HelloService.java" index="10">
-<position info="not_deleted" x="185" y="0"/>
-</item>
-<item historyLabel="HelloService.java" index="10">
-<position info="not_deleted" x="282" y="0"/>
-</item>
-<item historyLabel="HelloService.java" index="10">
-<position info="not_deleted" x="601" y="0"/>
-</item>
-<item historyLabel="HelloServiceActivity.java" index="4">
-<position info="not_deleted" x="351" y="0"/>
-</item>
-<item historyLabel="IHelloService.aidl" index="11">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="HelloService.java" index="10">
-<position info="not_deleted" x="601" y="0"/>
-</item>
-<item historyLabel="Binder_testActivity.java" index="6">
-<position info="not_deleted" x="1545" y="0"/>
-</item>
-<item historyLabel="Binder_testActivity.java" index="6">
-<position info="not_deleted" x="619" y="0"/>
-</item>
-<item historyLabel="R.java" index="15">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Binder_testActivity.java" index="6">
-<position info="not_deleted" x="2041" y="0"/>
-</item>
-<item historyLabel="Binder_testActivity.java" index="6">
-<position info="not_deleted" x="2053" y="0"/>
-</item>
-<item historyLabel="R.java" index="15">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="HelloService.java" index="10">
-<position info="not_deleted" x="601" y="0"/>
-</item>
-<item historyLabel="HelloServiceActivity.java" index="4">
-<position info="not_deleted" x="351" y="0"/>
-</item>
-<item historyLabel="HelloService.java" index="10">
-<position info="not_deleted" x="268" y="12"/>
-</item>
-<item historyLabel="Binder_testActivity.java" index="6">
-<position info="not_deleted" x="2050" y="0"/>
-</item>
-<item historyLabel="Binder_testActivity.java" index="6">
-<position info="not_deleted" x="756" y="0"/>
-</item>
-<item historyLabel="IHelloService.aidl" index="9">
-<position info="not_deleted" x="117" y="0"/>
-</item>
-<item historyLabel="Binder_testActivity.java" index="6">
-<position info="not_deleted" x="1081" y="0"/>
-</item>
-<item historyLabel="IHelloService.aidl" index="9">
-<position info="not_deleted" x="117" y="0"/>
-</item>
-<item historyLabel="IHelloService.aidl" index="11">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="HelloServiceActivity.java" index="4">
-<position info="not_deleted" x="353" y="0"/>
-</item>
-<item historyLabel="HelloService.java" index="10">
-<position info="not_deleted" x="268" y="12"/>
-</item>
-<item historyLabel="helloService Manifest" index="7"/>
-<item historyLabel="HomeActivity.java" index="16">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item active="true" historyLabel="main.xml" index="17"/>
-</navigationHistory>
+<navigationHistory/>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="left"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 <trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
@@ -917,51 +242,5 @@
 </trimArea>
 </trimLayout>
 </window>
-<mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" tooltip="android-actionbar-example/res/layout/main.xml">
-<persistable path="/android-actionbar-example/res/layout/main.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HomeActivity.java" tooltip="android-actionbar-example/src/com/markupartist/android/actionbar/example/HomeActivity.java">
-<persistable path="/android-actionbar-example/src/com/markupartist/android/actionbar/example/HomeActivity.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="R.java" tooltip="BinderClientDemo/gen/android/client/R.java">
-<persistable path="/BinderClientDemo/gen/android/client/R.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BuildConfig.java" tooltip="BinderClientDemo/gen/android/client/BuildConfig.java">
-<persistable path="/BinderClientDemo/gen/android/client/BuildConfig.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IHelloService.java" tooltip="BinderClientDemo/gen/android/hello/service/IHelloService.java">
-<persistable path="/BinderClientDemo/gen/android/hello/service/IHelloService.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" tooltip="helloService/res/layout/main.xml">
-<persistable path="/helloService/res/layout/main.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="IHelloService.aidl" tooltip="helloService/src/android/hello/service/IHelloService.aidl">
-<persistable path="/helloService/src/android/hello/service/IHelloService.aidl"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloService.java" tooltip="helloService/src/android/hello/service/HelloService.java">
-<persistable path="/helloService/src/android/hello/service/HelloService.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="IHelloService.aidl" tooltip="BinderClientDemo/src/android/hello/service/IHelloService.aidl">
-<persistable path="/BinderClientDemo/src/android/hello/service/IHelloService.aidl"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="BinderClientDemo/AndroidManifest.xml">
-<persistable path="/BinderClientDemo/AndroidManifest.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="helloService/AndroidManifest.xml">
-<persistable path="/helloService/AndroidManifest.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Binder_testActivity.java" tooltip="BinderClientDemo/src/android/client/Binder_testActivity.java">
-<persistable path="/BinderClientDemo/src/android/client/Binder_testActivity.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloServiceActivity.java" tooltip="helloService/src/android/hello/service/HelloServiceActivity.java">
-<persistable path="/helloService/src/android/hello/service/HelloServiceActivity.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ServerService.java" tooltip="BinderClient/src/com/binderserver/ServerService.java">
-<persistable path="/BinderClient/src/com/binderserver/ServerService.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IAidlBinder.java" tooltip="BinderClient/gen/com/binderserver/IAidlBinder.java">
-<persistable path="/BinderClient/gen/com/binderserver/IAidlBinder.java"/>
-</file>
-</mruList>
+<mruList/>
 </workbench>

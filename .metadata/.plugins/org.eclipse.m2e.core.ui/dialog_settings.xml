@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Administrator\Downloads\JakeWharton-ActionBarSherlock-071a61c"/>
 			<item value="C:\Users\Administrator\Downloads\Android-ViewPagerIndicator-master"/>
 		</list>
 		<list key="projectNameTemplate">
