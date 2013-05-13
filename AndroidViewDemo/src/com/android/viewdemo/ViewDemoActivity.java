@@ -1,6 +1,6 @@
 package com.android.viewdemo;
 
-import com.android.androidviewdemo.R;
+import com.android.viewdemo.R;
 
 import android.app.Activity;
 import android.os.Bundle;
