@@ -107,7 +107,7 @@ public class MainActivity extends Activity {
 		if (item.getItemId() == 1) {
 			finish();
 		} else if (item.getItemId() == 2) {
-			
+
 		}
 
 		return super.onOptionsItemSelected(item);

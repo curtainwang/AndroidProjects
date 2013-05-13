@@ -1,6 +1,5 @@
 package com.android.actionbar.implement;
 
-import com.android.actionbar.MainActivity;
 import com.android.actionbar.R;
 import com.markupartist.android.widget.ActionBar;
 import com.markupartist.android.widget.ActionBar.AbstractAction;
@@ -10,7 +9,6 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.TextView;
 import android.widget.Toast;
 
 public class Imple1ActionBarActivity<OtherActivity> extends Activity {

@@ -21,6 +21,7 @@ import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.support.v4.view.MenuItem;
 import android.support.v4.view.SubMenu;
+import android.view.ActionProvider;
 import android.view.ContextMenu.ContextMenuInfo;
 import android.view.View;
 
@@ -246,4 +247,47 @@ public class ActionMenuItem implements MenuItem {
     public MenuItem setActionView(int resId) {
         throw new UnsupportedOperationException();
     }
+
+	@Override
+	public boolean collapseActionView() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean expandActionView() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public ActionProvider getActionProvider() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean isActionViewExpanded() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public android.view.MenuItem setActionProvider(ActionProvider actionProvider) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public android.view.MenuItem setOnActionExpandListener(
+			OnActionExpandListener listener) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public android.view.MenuItem setShowAsActionFlags(int actionEnum) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }

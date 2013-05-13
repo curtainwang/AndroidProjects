@@ -1,0 +1,431 @@
+[
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
+    "jarFileModificationDate": "2013-05-09T15:17:15.271+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\ActionBarCompat\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9495e7392f92f1ecf50b4e7203a1f1fb91cc78c7",
+    "jarFileModificationDate": "2013-02-28T10:03:50.053+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-3\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
+    "jarFileModificationDate": "2013-05-08T17:56:05.839+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\ActionBarOptimize\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "effects",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bebe249895bd97b12aa914ab04ccf4f670b8104b",
+    "jarFileModificationDate": "2013-02-22T17:23:46.118+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\GDCatalog\\libs\\effects.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "greendroid",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f0f29704603d5ac3d0c628f97fcca29557bbc4c4",
+    "jarFileModificationDate": "2013-05-13T15:15:37.223+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\GreenDroid\\bin\\greendroid.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "greendroid-googleapis",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6378ce467fd27cf743bbbcfcd6ae7a0f65ba61a0",
+    "jarFileModificationDate": "2013-05-13T17:00:49.878+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\GreenDroid-GoogleAPIs\\bin\\greendroid-googleapis.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "19cd75888d1d75d3ae3cb7a8692153da5d65eb13",
+    "jarFileModificationDate": "2013-02-28T10:02:02.581+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-7\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
+    "jarFileModificationDate": "2013-05-13T14:33:24.697+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\ActionBarDemo\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "92822ec981a4d0a7f002c792e7b3b60f9a1f26fa",
+    "jarFileModificationDate": "2013-02-22T17:12:28.177+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-15\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2567fcef5bb2ca93e22a9df4f2dbf895daeb3e33",
+    "jarFileModificationDate": "2012-04-16T19:02:10.765+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-8\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b50d42b32e1d8a6c2d5f19a846474d5e2199c68e",
+    "jarFileModificationDate": "2012-04-16T16:55:22.775+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-10\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "baidumapapi",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "83b0262d0e6c1617faf7e29ed76f6bc356b04cc1",
+    "jarFileModificationDate": "2013-04-26T20:51:40.619+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\WeatherLocationService\\libs\\baidumapapi.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "effects",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bebe249895bd97b12aa914ab04ccf4f670b8104b",
+    "jarFileModificationDate": "2013-02-22T17:23:46.118+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\add-ons\\addon-google_apis-google-16\\libs\\effects.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "maps",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0f721c1cc0f62b6dc6e9a6ea311913e4f6bc40de",
+    "jarFileModificationDate": "2013-02-22T17:14:32.593+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\add-ons\\addon-google_apis-google-10\\libs\\maps.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "annotations",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "376123c0be2ad5456060e556b21fd4a117e3f075",
+    "jarFileModificationDate": "2013-02-22T16:52:29.754+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\tools\\support\\annotations.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
+    "jarFileModificationDate": "2013-05-13T17:31:39.912+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\SendSMS\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "47ffff881d2fe54d5c646fcc3a646bf291008448",
+    "jarFileModificationDate": "2013-02-22T17:11:20.546+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-16\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "maps",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8db6e10e1d07a37d1f83a819e234589b4f674bba",
+    "jarFileModificationDate": "2013-02-22T17:23:46.130+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\GDCatalog\\libs\\googlemap\\maps.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
+    "jarFileModificationDate": "2013-04-27T10:54:38.578+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\WeatherLocationService\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
+    "jarFileModificationDate": "2013-05-06T19:55:39.998+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\AndroidViewDemo\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-actionbar-library",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5de9253867f74dfeffbc19f112f0e4a58323c683",
+    "jarFileModificationDate": "2013-05-13T15:15:54.225+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\android-actionbar-library\\bin\\android-actionbar-library.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
+    "jarFileModificationDate": "2013-05-07T11:45:37.180+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\BinderClient\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
+    "jarFileModificationDate": "2013-05-10T16:57:45.589+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\ActionBarSherlock\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "usb",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8071da498abd5b3a9f7705ddff79848668c8aee5",
+    "jarFileModificationDate": "2013-02-22T17:14:32.598+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\add-ons\\addon-google_apis-google-10\\libs\\usb.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "google-play-services",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "41b51ef40a13bc22afdc742f4d00d852b6ac4029",
+    "jarFileModificationDate": "2013-01-11T22:26:50+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\google-play-services_lib\\libs\\google-play-services.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "usb",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0cf61a86400740b528d935ba7f4bd7bc725f4a",
+    "jarFileModificationDate": "2013-02-22T17:23:46.108+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\add-ons\\addon-google_apis-google-16\\libs\\usb.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "library",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a05fb7bda1743e06c22546294fc87fc57166e485",
+    "jarFileModificationDate": "2013-05-13T17:22:51.713+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\ActionBarOptimize\\libs\\library.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "usb",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0cf61a86400740b528d935ba7f4bd7bc725f4a",
+    "jarFileModificationDate": "2013-02-22T17:23:46.108+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\GDCatalog\\libs\\usb.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5ad8ede41493307ce2991a10abfe5350a5f57b7f",
+    "jarFileModificationDate": "2013-02-22T16:32:14.958+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-14\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "957fde040ce9e3310b6ea179006ac4fdd6aa52ae",
+    "jarFileModificationDate": "2013-02-28T10:02:53.223+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-4\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "library",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a05fb7bda1743e06c22546294fc87fc57166e485",
+    "jarFileModificationDate": "2013-05-13T17:22:51.713+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\library\\bin\\library.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
+    "jarFileModificationDate": "2013-04-26T14:51:17.523+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\Weather\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "maps",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8db6e10e1d07a37d1f83a819e234589b4f674bba",
+    "jarFileModificationDate": "2013-02-22T17:23:46.130+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\add-ons\\addon-google_apis-google-16\\libs\\maps.jar",
+    "javaRuntime": false
+  }
+]

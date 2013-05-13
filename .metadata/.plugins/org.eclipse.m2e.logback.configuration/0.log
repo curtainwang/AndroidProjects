@@ -1097,3 +1097,35 @@ org.apache.lucene.index.IndexNotFoundException: no segments* file found in org.a
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1438) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
 2013-05-10 16:44:16,968 [pool-8-thread-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-13 10:48:56,772 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-13 15:11:45,316 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-13 15:11:45,956 [Worker-10] WARN  o.e.r.i.r.p.ClasspathEntryInfoProvider - Exception during deserialization of cached classpath infos. Discaring old state.
+java.lang.NullPointerException: null
+	at org.eclipse.recommenders.internal.rcp.providers.ClasspathEntryInfoProvider.initializeIndex(ClasspathEntryInfoProvider.java:119) [org.eclipse.recommenders.rcp_1.0.0.v20120612-2305-b156.jar:na]
+	at org.eclipse.recommenders.internal.rcp.providers.ClasspathEntryInfoProvider.access$0(ClasspathEntryInfoProvider.java:111) [org.eclipse.recommenders.rcp_1.0.0.v20120612-2305-b156.jar:na]
+	at org.eclipse.recommenders.internal.rcp.providers.ClasspathEntryInfoProvider$1.run(ClasspathEntryInfoProvider.java:104) [org.eclipse.recommenders.rcp_1.0.0.v20120612-2305-b156.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.5.200.v20120521-2346.jar:na]
+2013-05-13 16:20:53,887 [Worker-42] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2013-05-13 16:20:54,348 [Worker-42] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-13 16:21:42,200 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-13 16:31:39,749 [Worker-11] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2013-05-13 16:31:39,934 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-13 16:42:05,437 [Worker-11] ERROR o.e.m.c.i.i.nexus.NexusIndexManager - Unable to update index for central|http://repo.maven.apache.org/maven2: C:\Users\Administrator\.m2\repository\.cache\m2e\1.1.0\26522e0d83a422eed93329ece7565cfc\nexus-maven-repository-index.zip (系统找不到指定的文件。)
+java.io.FileNotFoundException: C:\Users\Administrator\.m2\repository\.cache\m2e\1.1.0\26522e0d83a422eed93329ece7565cfc\nexus-maven-repository-index.zip (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method) ~[na:1.6.0_30]
+	at java.io.FileInputStream.<init>(FileInputStream.java:120) ~[na:1.6.0_30]
+	at org.apache.maven.index.updater.DefaultIndexUpdater$FileFetcher.retrieve(DefaultIndexUpdater.java:568) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.loadIndexDirectory(DefaultIndexUpdater.java:206) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.access$300(DefaultIndexUpdater.java:75) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater$LuceneIndexAdaptor.setIndexFile(DefaultIndexUpdater.java:645) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:844) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:156) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1137) [org.eclipse.m2e.core_1.1.0.20120530-0009.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateIndex(NexusIndexManager.java:1081) [org.eclipse.m2e.core_1.1.0.20120530-0009.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager$1.run(NexusIndexManager.java:658) [org.eclipse.m2e.core_1.1.0.20120530-0009.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob.run(IndexUpdaterJob.java:71) [org.eclipse.m2e.core_1.1.0.20120530-0009.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.5.200.v20120521-2346.jar:na]
+2013-05-13 17:12:02,053 [Worker-53] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2013-05-13 17:12:02,258 [Worker-53] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-05-13 17:12:37,504 [Worker-53] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 35757 ms
+2013-05-13 17:24:16,508 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8

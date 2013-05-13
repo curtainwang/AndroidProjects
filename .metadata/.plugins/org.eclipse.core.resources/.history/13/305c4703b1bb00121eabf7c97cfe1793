@@ -1,0 +1,19 @@
+package com.android.actionbar.sherlock;
+
+import com.android.actionbar.R;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+import com.actionbarsherlock.internal.app.SherlockActivity;
+
+public class Imple2ActionBarActivity extends FragmentActivity  {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.actionbar_text);
+        ((TextView)findViewById(R.id.text)).setText(R.string.actionbar_simple_content);
+    }
+}
+

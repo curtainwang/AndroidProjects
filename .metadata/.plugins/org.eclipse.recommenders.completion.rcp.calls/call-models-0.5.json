@@ -1,0 +1,17 @@
+{
+  "F:\\Android\\android-sdk-windows\\platforms\\android-16\\android.jar": {
+    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-16\\android.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027F:\\Android\\android-sdk-windows\\platforms\\android-16\\android.jar\u0027. Neither fingerprint \u002747ffff881d2fe54d5c646fcc3a646bf291008448\u0027 nor symbolic name \u0027android\u0027 are known."
+  },
+  "Z:\\work\\code\\android\\AndroidProjects\\ActionBarOptimize\\gen": {
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\ActionBarOptimize\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027Z:\\work\\code\\android\\AndroidProjects\\ActionBarOptimize\\gen\u0027. Skipped."
+  },
+  "Z:\\work\\code\\android\\AndroidProjects\\library\\bin\\library.jar": {
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\library\\bin\\library.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027Z:\\work\\code\\android\\AndroidProjects\\library\\bin\\library.jar\u0027. Neither fingerprint \u0027a05fb7bda1743e06c22546294fc87fc57166e485\u0027 nor symbolic name \u0027library\u0027 are known."
+  }
+}
