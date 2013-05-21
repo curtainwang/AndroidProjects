@@ -1,7 +1,0 @@
-<resources>
-
-    <string name="app_name">ActionBarOptimize</string>
-    <string name="actionbar">ActionBar Show</string>
-    <string name="NativeActionBar">Native</string>
-
-</resources>

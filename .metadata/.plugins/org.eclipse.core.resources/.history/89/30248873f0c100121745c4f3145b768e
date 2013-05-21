@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="match_parent" android:layout_width="match_parent">
+	<ImageView android:src="@drawable/koala"
+		android:layout_height="wrap_content" android:layout_width="wrap_content" />
+	<Button android:layout_height="wrap_content" android:text="按钮"
+		android:layout_width="match_parent" />
+	<ImageView android:src="@drawable/icon"
+		android:layout_height="wrap_content" android:layout_width="wrap_content" />
+</FrameLayout>

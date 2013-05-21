@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.longluo.GameEngine.Screen.animation.Animator"/>
 <fullyQualifiedTypeName name="com.longluo.GameEngine.Util.Coordinates"/>
 <fullyQualifiedTypeName name="com.longluo.GameEngine.GameActivity"/>
 <fullyQualifiedTypeName name="com.longluo.GameEngine.Material.Movement"/>
@@ -60,4 +59,5 @@
 <fullyQualifiedTypeName name="android.R.string"/>
 <fullyQualifiedTypeName name="com.actionbarsherlock.internal.app.SherlockActivity"/>
 <fullyQualifiedTypeName name="com.android.actionbar.R"/>
+<fullyQualifiedTypeName name="com.android.customviewgroup.R"/>
 </qualifiedTypeNameHistroy>
