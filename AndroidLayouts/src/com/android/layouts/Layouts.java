@@ -1,5 +1,7 @@
 package com.android.layouts;
 
+import com.android.layouts.tablayout.TabLayoutActivity;
+
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -89,12 +91,25 @@ public class Layouts extends Activity {
 		btn.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View v) {
-				// TODO Auto-generated method stub
 				Intent intent = new Intent(Layouts.this,
 						Layout_Tablelayout.class);
 				setTitle("TableLayoutµÄÑÝÊ¾");
 				startActivity(intent);
 			}
 		});
+		
+		
+		// Tab Layout
+		btn = (Button) findViewById(R.id.ButtonTab);
+		btn.setOnClickListener(new OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(Layouts.this,
+						TabLayoutActivity.class);
+				setTitle("Tab Layout Show");
+				startActivity(intent);
+			}
+		});
 	}
+	
 }

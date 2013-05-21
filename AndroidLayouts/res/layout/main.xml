@@ -43,8 +43,17 @@
     <Button
         android:id="@+id/Button05"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="wrap_content" 
         android:text="TableLayout演示" >
     </Button>
-
+    
+    <Button
+        android:id="@+id/ButtonTab"
+        android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+        android:text="Tab Layout Show"
+        android:textSize="26px"
+        android:textColor="#ff576d83">
+    </Button>
+    
 </LinearLayout>
