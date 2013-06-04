@@ -13,5 +13,15 @@
     "location": "Z:\\work\\code\\android\\AndroidProjects\\library\\bin\\library.jar",
     "status": "UNRESOLVED",
     "error": "No call model found for \u0027Z:\\work\\code\\android\\AndroidProjects\\library\\bin\\library.jar\u0027. Neither fingerprint \u0027a05fb7bda1743e06c22546294fc87fc57166e485\u0027 nor symbolic name \u0027library\u0027 are known."
+  },
+  "F:\\Android\\android-sdk-windows\\platforms\\android-10\\android.jar": {
+    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-10\\android.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027F:\\Android\\android-sdk-windows\\platforms\\android-10\\android.jar\u0027. Neither fingerprint \u0027b50d42b32e1d8a6c2d5f19a846474d5e2199c68e\u0027 nor symbolic name \u0027android\u0027 are known."
+  },
+  "Z:\\work\\code\\android\\AndroidProjects\\AndroidLayouts\\gen": {
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\AndroidLayouts\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027Z:\\work\\code\\android\\AndroidProjects\\AndroidLayouts\\gen\u0027. Skipped."
   }
 }

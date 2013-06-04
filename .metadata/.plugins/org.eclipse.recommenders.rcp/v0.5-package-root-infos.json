@@ -26,19 +26,6 @@
     "javaRuntime": false
   },
   {
-    "symbolicName": "android-support-v4",
-    "version": {
-      "major": -1,
-      "minor": -1,
-      "micro": -1,
-      "qualifier": ""
-    },
-    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
-    "jarFileModificationDate": "2013-05-08T17:56:05.839+08:00",
-    "location": "Z:\\work\\code\\android\\AndroidProjects\\ActionBarOptimize\\libs\\android-support-v4.jar",
-    "javaRuntime": false
-  },
-  {
     "symbolicName": "effects",
     "version": {
       "major": -1,
@@ -52,29 +39,16 @@
     "javaRuntime": false
   },
   {
-    "symbolicName": "greendroid",
+    "symbolicName": "android-support-v4",
     "version": {
       "major": -1,
       "minor": -1,
       "micro": -1,
       "qualifier": ""
     },
-    "jarFileFingerprint": "f0f29704603d5ac3d0c628f97fcca29557bbc4c4",
-    "jarFileModificationDate": "2013-05-13T15:15:37.223+08:00",
-    "location": "Z:\\work\\code\\android\\AndroidProjects\\GreenDroid\\bin\\greendroid.jar",
-    "javaRuntime": false
-  },
-  {
-    "symbolicName": "greendroid-googleapis",
-    "version": {
-      "major": -1,
-      "minor": -1,
-      "micro": -1,
-      "qualifier": ""
-    },
-    "jarFileFingerprint": "6378ce467fd27cf743bbbcfcd6ae7a0f65ba61a0",
-    "jarFileModificationDate": "2013-05-13T17:00:49.878+08:00",
-    "location": "Z:\\work\\code\\android\\AndroidProjects\\GreenDroid-GoogleAPIs\\bin\\greendroid-googleapis.jar",
+    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
+    "jarFileModificationDate": "2013-05-13T14:33:24.697+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\ActionBarDemo\\libs\\android-support-v4.jar",
     "javaRuntime": false
   },
   {
@@ -91,16 +65,29 @@
     "javaRuntime": false
   },
   {
-    "symbolicName": "android-support-v4",
+    "symbolicName": "greendroid-googleapis",
     "version": {
       "major": -1,
       "minor": -1,
       "micro": -1,
       "qualifier": ""
     },
-    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
-    "jarFileModificationDate": "2013-05-13T14:33:24.697+08:00",
-    "location": "Z:\\work\\code\\android\\AndroidProjects\\ActionBarDemo\\libs\\android-support-v4.jar",
+    "jarFileFingerprint": "6378ce467fd27cf743bbbcfcd6ae7a0f65ba61a0",
+    "jarFileModificationDate": "2013-05-13T17:00:49.878+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\GreenDroid-GoogleAPIs\\bin\\greendroid-googleapis.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "greendroid",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f0f29704603d5ac3d0c628f97fcca29557bbc4c4",
+    "jarFileModificationDate": "2013-05-13T15:15:37.223+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\GreenDroid\\bin\\greendroid.jar",
     "javaRuntime": false
   },
   {
@@ -130,19 +117,6 @@
     "javaRuntime": false
   },
   {
-    "symbolicName": "android",
-    "version": {
-      "major": -1,
-      "minor": -1,
-      "micro": -1,
-      "qualifier": ""
-    },
-    "jarFileFingerprint": "b50d42b32e1d8a6c2d5f19a846474d5e2199c68e",
-    "jarFileModificationDate": "2012-04-16T16:55:22.775+08:00",
-    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-10\\android.jar",
-    "javaRuntime": false
-  },
-  {
     "symbolicName": "baidumapapi",
     "version": {
       "major": -1,
@@ -156,16 +130,16 @@
     "javaRuntime": false
   },
   {
-    "symbolicName": "effects",
+    "symbolicName": "android",
     "version": {
       "major": -1,
       "minor": -1,
       "micro": -1,
       "qualifier": ""
     },
-    "jarFileFingerprint": "bebe249895bd97b12aa914ab04ccf4f670b8104b",
-    "jarFileModificationDate": "2013-02-22T17:23:46.118+08:00",
-    "location": "F:\\Android\\android-sdk-windows\\add-ons\\addon-google_apis-google-16\\libs\\effects.jar",
+    "jarFileFingerprint": "b50d42b32e1d8a6c2d5f19a846474d5e2199c68e",
+    "jarFileModificationDate": "2012-04-16T16:55:22.775+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-10\\android.jar",
     "javaRuntime": false
   },
   {
@@ -179,6 +153,19 @@
     "jarFileFingerprint": "0f721c1cc0f62b6dc6e9a6ea311913e4f6bc40de",
     "jarFileModificationDate": "2013-02-22T17:14:32.593+08:00",
     "location": "F:\\Android\\android-sdk-windows\\add-ons\\addon-google_apis-google-10\\libs\\maps.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "effects",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bebe249895bd97b12aa914ab04ccf4f670b8104b",
+    "jarFileModificationDate": "2013-02-22T17:23:46.118+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\add-ons\\addon-google_apis-google-16\\libs\\effects.jar",
     "javaRuntime": false
   },
   {
@@ -390,19 +377,6 @@
     "javaRuntime": false
   },
   {
-    "symbolicName": "library",
-    "version": {
-      "major": -1,
-      "minor": -1,
-      "micro": -1,
-      "qualifier": ""
-    },
-    "jarFileFingerprint": "a05fb7bda1743e06c22546294fc87fc57166e485",
-    "jarFileModificationDate": "2013-05-13T17:22:51.713+08:00",
-    "location": "Z:\\work\\code\\android\\AndroidProjects\\library\\bin\\library.jar",
-    "javaRuntime": false
-  },
-  {
     "symbolicName": "android-support-v4",
     "version": {
       "major": -1,
@@ -413,6 +387,19 @@
     "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
     "jarFileModificationDate": "2013-04-26T14:51:17.523+08:00",
     "location": "Z:\\work\\code\\android\\AndroidProjects\\Weather\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "library",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a05fb7bda1743e06c22546294fc87fc57166e485",
+    "jarFileModificationDate": "2013-05-13T17:22:51.713+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\library\\bin\\library.jar",
     "javaRuntime": false
   },
   {

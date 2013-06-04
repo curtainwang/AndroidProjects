@@ -1,7 +1,6 @@
-#Thu May 09 15:59:03 CST 2013
-com.android.ide.eclipse.adt.sdk=F\:\\Android\\android-sdk-windows
-com.android.ide.eclipse.editorsResourceExplorer.Col2=125
-com.android.ide.eclipse.editorsResourceExplorer.Col1=272
-eclipse.preferences.version=1
 com.android.ide.eclipse.adt.fixLegacyEditors=1
+com.android.ide.eclipse.adt.sdk=F\:\\Android\\android-sdk-windows
 com.android.ide.eclipse.adt.xmlEditor=true
+com.android.ide.eclipse.editorsResourceExplorer.Col1=272
+com.android.ide.eclipse.editorsResourceExplorer.Col2=125
+eclipse.preferences.version=1
