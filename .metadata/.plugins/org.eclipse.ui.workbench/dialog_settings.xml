@@ -22,11 +22,17 @@
 			<item value="org.eclipse.wst.XMLCategory"/>
 		</list>
 	</section>
+	<section name="ShowViewDialog">
+		<item value="533" key="DIALOG_WIDTH"/>
+		<item value="93" key="DIALOG_Y_ORIGIN"/>
+		<item value="514" key="DIALOG_HEIGHT"/>
+		<item value="463" key="DIALOG_X_ORIGIN"/>
+		<item value="1|微软雅黑|11.4|0|WINDOWS|1|-19|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+	</section>
 	<section name="ImportExportAction">
-		<item value="org.eclipse.m2e.core.wizards.Maven2ImportWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
-			<item value="com.android.ide.eclipse.wizards.category"/>
-			<item value="org.eclipse.m2e"/>
+			<item value="org.eclipse.ui.Basic"/>
 		</list>
 	</section>
 </section>

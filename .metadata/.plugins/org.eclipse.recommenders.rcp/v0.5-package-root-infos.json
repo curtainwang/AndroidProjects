@@ -8,6 +8,19 @@
       "qualifier": ""
     },
     "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
+    "jarFileModificationDate": "2013-06-24T10:14:42.334+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\HelloAndroid\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
     "jarFileModificationDate": "2013-05-09T15:17:15.271+08:00",
     "location": "Z:\\work\\code\\android\\AndroidProjects\\ActionBarCompat\\libs\\android-support-v4.jar",
     "javaRuntime": false
@@ -39,29 +52,16 @@
     "javaRuntime": false
   },
   {
-    "symbolicName": "android-support-v4",
+    "symbolicName": "greendroid",
     "version": {
       "major": -1,
       "minor": -1,
       "micro": -1,
       "qualifier": ""
     },
-    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
-    "jarFileModificationDate": "2013-05-13T14:33:24.697+08:00",
-    "location": "Z:\\work\\code\\android\\AndroidProjects\\ActionBarDemo\\libs\\android-support-v4.jar",
-    "javaRuntime": false
-  },
-  {
-    "symbolicName": "android",
-    "version": {
-      "major": -1,
-      "minor": -1,
-      "micro": -1,
-      "qualifier": ""
-    },
-    "jarFileFingerprint": "19cd75888d1d75d3ae3cb7a8692153da5d65eb13",
-    "jarFileModificationDate": "2013-02-28T10:02:02.581+08:00",
-    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-7\\android.jar",
+    "jarFileFingerprint": "f0f29704603d5ac3d0c628f97fcca29557bbc4c4",
+    "jarFileModificationDate": "2013-05-13T15:15:37.223+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\GreenDroid\\bin\\greendroid.jar",
     "javaRuntime": false
   },
   {
@@ -78,16 +78,29 @@
     "javaRuntime": false
   },
   {
-    "symbolicName": "greendroid",
+    "symbolicName": "android",
     "version": {
       "major": -1,
       "minor": -1,
       "micro": -1,
       "qualifier": ""
     },
-    "jarFileFingerprint": "f0f29704603d5ac3d0c628f97fcca29557bbc4c4",
-    "jarFileModificationDate": "2013-05-13T15:15:37.223+08:00",
-    "location": "Z:\\work\\code\\android\\AndroidProjects\\GreenDroid\\bin\\greendroid.jar",
+    "jarFileFingerprint": "19cd75888d1d75d3ae3cb7a8692153da5d65eb13",
+    "jarFileModificationDate": "2013-02-28T10:02:02.581+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\platforms\\android-7\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
+    "jarFileModificationDate": "2013-05-13T14:33:24.697+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\ActionBarDemo\\libs\\android-support-v4.jar",
     "javaRuntime": false
   },
   {
@@ -117,19 +130,6 @@
     "javaRuntime": false
   },
   {
-    "symbolicName": "baidumapapi",
-    "version": {
-      "major": -1,
-      "minor": -1,
-      "micro": -1,
-      "qualifier": ""
-    },
-    "jarFileFingerprint": "83b0262d0e6c1617faf7e29ed76f6bc356b04cc1",
-    "jarFileModificationDate": "2013-04-26T20:51:40.619+08:00",
-    "location": "Z:\\work\\code\\android\\AndroidProjects\\WeatherLocationService\\libs\\baidumapapi.jar",
-    "javaRuntime": false
-  },
-  {
     "symbolicName": "android",
     "version": {
       "major": -1,
@@ -143,16 +143,16 @@
     "javaRuntime": false
   },
   {
-    "symbolicName": "maps",
+    "symbolicName": "baidumapapi",
     "version": {
       "major": -1,
       "minor": -1,
       "micro": -1,
       "qualifier": ""
     },
-    "jarFileFingerprint": "0f721c1cc0f62b6dc6e9a6ea311913e4f6bc40de",
-    "jarFileModificationDate": "2013-02-22T17:14:32.593+08:00",
-    "location": "F:\\Android\\android-sdk-windows\\add-ons\\addon-google_apis-google-10\\libs\\maps.jar",
+    "jarFileFingerprint": "83b0262d0e6c1617faf7e29ed76f6bc356b04cc1",
+    "jarFileModificationDate": "2013-04-26T20:51:40.619+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\WeatherLocationService\\libs\\baidumapapi.jar",
     "javaRuntime": false
   },
   {
@@ -169,6 +169,19 @@
     "javaRuntime": false
   },
   {
+    "symbolicName": "maps",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0f721c1cc0f62b6dc6e9a6ea311913e4f6bc40de",
+    "jarFileModificationDate": "2013-02-22T17:14:32.593+08:00",
+    "location": "F:\\Android\\android-sdk-windows\\add-ons\\addon-google_apis-google-10\\libs\\maps.jar",
+    "javaRuntime": false
+  },
+  {
     "symbolicName": "annotations",
     "version": {
       "major": -1,
@@ -179,6 +192,19 @@
     "jarFileFingerprint": "376123c0be2ad5456060e556b21fd4a117e3f075",
     "jarFileModificationDate": "2013-02-22T16:52:29.754+08:00",
     "location": "F:\\Android\\android-sdk-windows\\tools\\support\\annotations.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v13",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ecda966839090a41b29a9239d44bafc06fdadb87",
+    "jarFileModificationDate": "2012-09-26T20:59:08+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\FileExplorer\\libs\\android-support-v13.jar",
     "javaRuntime": false
   },
   {
@@ -205,6 +231,19 @@
     "jarFileFingerprint": "47ffff881d2fe54d5c646fcc3a646bf291008448",
     "jarFileModificationDate": "2013-02-22T17:11:20.546+08:00",
     "location": "F:\\Android\\android-sdk-windows\\platforms\\android-16\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "96b67e377ff4637ff1fa3bbe9ad7183773935f39",
+    "jarFileModificationDate": "2012-07-16T20:49:50+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\BarcodeScanner\\libs\\core.jar",
     "javaRuntime": false
   },
   {
@@ -377,19 +416,6 @@
     "javaRuntime": false
   },
   {
-    "symbolicName": "android-support-v4",
-    "version": {
-      "major": -1,
-      "minor": -1,
-      "micro": -1,
-      "qualifier": ""
-    },
-    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
-    "jarFileModificationDate": "2013-04-26T14:51:17.523+08:00",
-    "location": "Z:\\work\\code\\android\\AndroidProjects\\Weather\\libs\\android-support-v4.jar",
-    "javaRuntime": false
-  },
-  {
     "symbolicName": "library",
     "version": {
       "major": -1,
@@ -400,6 +426,19 @@
     "jarFileFingerprint": "a05fb7bda1743e06c22546294fc87fc57166e485",
     "jarFileModificationDate": "2013-05-13T17:22:51.713+08:00",
     "location": "Z:\\work\\code\\android\\AndroidProjects\\library\\bin\\library.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "307c1cc532eabbf1d135b43e5c983c9da700449d",
+    "jarFileModificationDate": "2013-04-26T14:51:17.523+08:00",
+    "location": "Z:\\work\\code\\android\\AndroidProjects\\Weather\\libs\\android-support-v4.jar",
     "javaRuntime": false
   },
   {
